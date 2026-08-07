@@ -1,6 +1,6 @@
 {
-  "revision": "c62acc5cf9d85e4f258290ee63e78c7d702f084f",
-  "generated_at": "2026-08-07T22:32:25Z",
+  "revision": "68ed81d256485d6270adfce696f9183d68816145",
+  "generated_at": "2026-08-07T22:32:29Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "config",
@@ -403,10 +403,6 @@
     "config/witchery.cfg": {
       "sha1": "8dd5d9c1cd007a0f23ef13e79cbe519f26415454",
       "size": 6817
-    },
-    "config/witchery_debug.cfg": {
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0
     },
     "config/AE2Stuff/readme.txt": {
       "sha1": "5421b05be817d289357aee7a4e3686dee25069fc",
