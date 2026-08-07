@@ -1,6 +1,6 @@
 {
-  "revision": "bac91b578bbd5ea16280d7d55115a6bf6f6b5330",
-  "generated_at": "2026-08-07T19:29:17Z",
+  "revision": "b1bd1b59442b6fc8059ba1a441d2576e3ce7271c",
+  "generated_at": "2026-08-07T19:29:22Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "config",
@@ -1820,10 +1820,6 @@
     "mods/Avaritiaddons-1.9.4-GTNH.jar": {
       "sha1": "6d5f529d0154a5fec6c9e26133e51d609f0b32b2",
       "size": 207158
-    },
-    "mods/BaublesExpanded-2.2.21-GTNH.jar": {
-      "sha1": "e179420a71a168c5e897c71618b2fd4d8da0903c",
-      "size": 114785
     },
     "mods/BaublesExpanded-2.2.22-GTNH.jar": {
       "sha1": "7f9d5568c85517469f293c1736f8f6e1964a24af",
