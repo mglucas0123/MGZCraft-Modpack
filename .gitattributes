@@ -1,0 +1,4 @@
+# Integridade dos arquivos: o launcher valida SHA-1/tamanho contra o que o
+# GitHub serve. Desativa qualquer conversão de line ending (autocrlf) — os
+# arquivos são commitados byte a byte como estão na pasta local.
+* -text
