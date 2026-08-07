@@ -1,6 +1,6 @@
 {
-  "revision": "82b1fa8d48f633d1ae14a44d3cb709dff455d718",
-  "generated_at": "2026-08-07T03:07:43Z",
+  "revision": "19530fd9e3f2d92b42d94b20aa7808f959ebc09a",
+  "generated_at": "2026-08-07T19:29:06Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "config",
@@ -1009,10 +1009,6 @@
       "sha1": "92580c3e8371ad33d529f4e072e9738ac2296d25",
       "size": 333
     },
-    "config/LegibleNei/LegibleNei.log": {
-      "sha1": "b85820c9a8c8597e28eb07d151088c65f7c9e407",
-      "size": 60654
-    },
     "config/LegibleNei/filters/Bibliocraft.json": {
       "sha1": "c57108434c5370e4a5757b71bd65151d25063f8c",
       "size": 414
@@ -1761,14 +1757,6 @@
       "sha1": "a9108e011c466acab3b2d94d5da6191f9aadf75b",
       "size": 923
     },
-    "config/mobsinfo/MobRecipeLoader.cache": {
-      "sha1": "b5ea8c225fb44d964748e0a8023f010fa9ef12c2",
-      "size": 285275
-    },
-    "config/mobsinfo/VillagerTradesLoader.cache": {
-      "sha1": "bbbd905632a05fdeb09cedd18ad4c44e350a20cb",
-      "size": 64034
-    },
     "config/mobsinfo/mobsinfo.cfg": {
       "sha1": "be192685a5b106a8abe94bb1ee9d181249193081",
       "size": 1783
@@ -2100,6 +2088,10 @@
     "mods/appliedenergistics2-rv3-beta-1027-GTNH.jar": {
       "sha1": "fd8c3d934d3ef948f973dc959498f694262e0618",
       "size": 4808611
+    },
+    "mods/appliedenergistics2-rv3-beta-1028-GTNH.jar": {
+      "sha1": "5c18c27d432cebc8be8a608877041d1d47b9d29c",
+      "size": 4809785
     },
     "mods/backpack-2.6.16-GTNH.jar": {
       "sha1": "d5f74d13d23a209b7264d698fb477be35521f24d",
