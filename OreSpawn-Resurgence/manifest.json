@@ -1,6 +1,6 @@
 {
-  "revision": "148ac283aafb69f2d4d769b93d82086ef407bbab",
-  "generated_at": "2026-08-07T19:29:26Z",
+  "revision": "54644e08022aae00f3282f0c4726188ce09869d4",
+  "generated_at": "2026-08-07T19:29:32Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "config",
@@ -1980,10 +1980,6 @@
     "mods/NoMoreRecipeConflict.jar": {
       "sha1": "fb2936b66646761230d447c7529d8b4429736b9e",
       "size": 16043
-    },
-    "mods/NotEnoughItems-2.8.118-GTNH.jar": {
-      "sha1": "58c11669f2240be0c1ea899a415ef407c464d990",
-      "size": 1605145
     },
     "mods/NotEnoughItems-2.8.119-GTNH.jar": {
       "sha1": "b49a1b196b75a735fdfba11afce90c3851bbe476",
