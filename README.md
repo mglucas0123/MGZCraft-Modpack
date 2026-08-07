@@ -27,12 +27,19 @@ MGZCraft-Modpack/
 ## Como atualizar um modpack
 
 1. Altere os arquivos na pasta do modpack (mods/, config/, etc.)
-2. Rode: `python update_index.py --repo mglucas0123/MGZCraft-Modpack`
-   (o script também regenera `bin/<versao>.zip` a partir de `bin/src/<versao>/`)
-3. Dê push: `git add -A && git commit -m "update: ..." && git push`
+2. Rode o script interativo em PowerShell:
+   ```powershell
+   .\gerar-manifest.ps1
+   ```
+   *Ou direto com a mensagem de commit:*
+   ```powershell
+   .\gerar-manifest.ps1 "update: novos mods adicionados"
+   ```
+3. Alternativamente (via comando manual):
+   - `python update_index.py --repo mglucas0123/MGZCraft-Modpack`
+   - `git add -A; git commit -m "update: ..."; git push`
 
-Pronto — na próxima vez que os jogadores abrirem o jogo, o launcher baixa
-somente os arquivos alterados (e o ZIP do bin apenas se ele mudou).
+Pronto — na próxima vez que os jogadores abrirem o jogo, o launcher baixa somente os arquivos alterados.
 
 ## Modpacks disponíveis
 
