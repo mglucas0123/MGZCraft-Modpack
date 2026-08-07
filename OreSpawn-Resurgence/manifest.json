@@ -1,6 +1,6 @@
 {
-  "revision": "19530fd9e3f2d92b42d94b20aa7808f959ebc09a",
-  "generated_at": "2026-08-07T19:29:06Z",
+  "revision": "8d8f896c3b2344900f140cd14d200f3b0aeab5e1",
+  "generated_at": "2026-08-07T19:29:12Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "config",
@@ -2084,10 +2084,6 @@
     "mods/angelica-2.1.60.jar": {
       "sha1": "a32dd8e669276e9f5ef1c38c0b8765ec4aa69d8e",
       "size": 7811879
-    },
-    "mods/appliedenergistics2-rv3-beta-1027-GTNH.jar": {
-      "sha1": "fd8c3d934d3ef948f973dc959498f694262e0618",
-      "size": 4808611
     },
     "mods/appliedenergistics2-rv3-beta-1028-GTNH.jar": {
       "sha1": "5c18c27d432cebc8be8a608877041d1d47b9d29c",
