@@ -1,0 +1,7 @@
+# Sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Pasta de origem da camada base (o ZIP bin/<versao>.zip é gerado pelo script)
+bin/src/

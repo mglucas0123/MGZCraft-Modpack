@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "doorX": 0,
+  "doorZ": 0,
+  "doorY": 0,
+  "buildingTier": 0,
+  "buildingType": 0,
+  "blockList": [
+    {
+      "blockid": "AWWayofTime:blockSchemSaver",
+      "metadata": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "positions": [
+        {
+          "xCoord": 0,
+          "yCoord": 0,
+          "zCoord": 0
+        }
+      ]
+    }
+  ]
+}
