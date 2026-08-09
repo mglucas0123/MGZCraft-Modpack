@@ -1,6 +1,6 @@
 {
-  "revision": "68ed81d256485d6270adfce696f9183d68816145",
-  "generated_at": "2026-08-07T22:32:29Z",
+  "revision": "7efde3a514ffb7afe3387a5d2942d2ec7ca0f110",
+  "generated_at": "2026-08-09T00:13:05Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "config",
@@ -1828,9 +1828,9 @@
       "sha1": "b0d13f227f0fe0ec1be8b401d916831fc533048d",
       "size": 5755198
     },
-    "mods/Botania-1.13.32-GTNH.jar": {
-      "sha1": "758f5534cb3d021c2f5aa540ae664a10807fbc4e",
-      "size": 16905585
+    "mods/Botania-1.13.33-GTNH.jar": {
+      "sha1": "2ca86a21576a1e3d9e65a8f60173496eafd4c5c6",
+      "size": 16905428
     },
     "mods/BrandonsCore-1.2.1-GTNH.jar": {
       "sha1": "4ec6c6a1c0f287e966522bde070a43d72dd1fb34",
