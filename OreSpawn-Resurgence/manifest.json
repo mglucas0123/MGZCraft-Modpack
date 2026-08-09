@@ -1,6 +1,6 @@
 {
-  "revision": "7efde3a514ffb7afe3387a5d2942d2ec7ca0f110",
-  "generated_at": "2026-08-09T00:13:05Z",
+  "revision": "f0405a6cd84478227a13ce0048d77fd445da7a76",
+  "generated_at": "2026-08-09T00:15:35Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "config",
@@ -1904,9 +1904,9 @@
       "sha1": "d89d75727efd9ea843ab1c22bddf2c808d2cc5c9",
       "size": 17834817
     },
-    "mods/Draconic-Evolution-1.5.30-GTNH.jar": {
-      "sha1": "df31c5990e990e3ffcc4f27dc80ef8321a5e1b8b",
-      "size": 6748777
+    "mods/Draconic-Evolution-1.5.31-GTNH.jar": {
+      "sha1": "e901005522df38e04d317370a88d27548e141272",
+      "size": 6755377
     },
     "mods/EnchantingPlus.jar": {
       "sha1": "2b84db09fc8875c2726a4b93d3ed37bc6ba16340",
