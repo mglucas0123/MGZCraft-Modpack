@@ -1,6 +1,6 @@
 {
-  "revision": "f0405a6cd84478227a13ce0048d77fd445da7a76",
-  "generated_at": "2026-08-09T00:15:35Z",
+  "revision": "4b3253f6fd9399c03299c0a943f214f02c46df54",
+  "generated_at": "2026-08-09T00:17:19Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "config",
@@ -2072,9 +2072,9 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.1.60.jar": {
-      "sha1": "a32dd8e669276e9f5ef1c38c0b8765ec4aa69d8e",
-      "size": 7811879
+    "mods/angelica-2.1.61.jar": {
+      "sha1": "beab13bb8795eb4ee8267e56de03ba773645d3a4",
+      "size": 7812232
     },
     "mods/appliedenergistics2-rv3-beta-1028-GTNH.jar": {
       "sha1": "5c18c27d432cebc8be8a608877041d1d47b9d29c",
@@ -2120,13 +2120,13 @@
       "sha1": "6e959ed82a8a4b591a39261276c4c3afde43fc72",
       "size": 5294549
     },
-    "mods/gtnhlib-0.11.36.jar": {
-      "sha1": "7b795d58d2d36c08db9b0120bad808d6fb2cd3e2",
+    "mods/gtnhlib-0.11.37.jar": {
+      "sha1": "f5198e9bf4df61610d5327d4b40662bd67a16490",
       "size": 1384832
     },
-    "mods/hodgepodge-2.7.180.jar": {
-      "sha1": "bd6461ab39468c15634417c40deea7277a79accb",
-      "size": 1087044
+    "mods/hodgepodge-2.7.182.jar": {
+      "sha1": "5c4f59fed4d4afa00d865385509a998d30bc8c82",
+      "size": 1092535
     },
     "mods/industrialcraft-2-2.2.828-experimental.jar": {
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
