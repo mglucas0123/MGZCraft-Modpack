@@ -1,6 +1,6 @@
 {
-  "revision": "c36307355becc4458bbf1772f9b6d3d1d31f49b1",
-  "generated_at": "2026-08-10T18:00:18Z",
+  "revision": "31e76a20107b135980a6fbbd4c204b8f407fd22d",
+  "generated_at": "2026-08-10T19:44:30Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1633,9 +1633,9 @@
       "sha1": "d89d75727efd9ea843ab1c22bddf2c808d2cc5c9",
       "size": 17834817
     },
-    "mods/Draconic-Evolution-1.5.31-GTNH.jar": {
-      "sha1": "e901005522df38e04d317370a88d27548e141272",
-      "size": 6755377
+    "mods/Draconic-Evolution-1.5.32-GTNH.jar": {
+      "sha1": "4e9e1641e73f374c699ea4b6dbeb5149a9ecb4b6",
+      "size": 6755399
     },
     "mods/EnchantingPlus.jar": {
       "sha1": "2b84db09fc8875c2726a4b93d3ed37bc6ba16340",
@@ -1701,9 +1701,9 @@
       "sha1": "fb2936b66646761230d447c7529d8b4429736b9e",
       "size": 16043
     },
-    "mods/NotEnoughItems-2.8.121-GTNH.jar": {
-      "sha1": "a461e51e92491c082251010f8a20536a84148f9a",
-      "size": 1606821
+    "mods/NotEnoughItems-2.8.122-GTNH.jar": {
+      "sha1": "91b19bb61d1e6cb5ec008bba4197734c23c6e795",
+      "size": 1606386
     },
     "mods/Patcher-DraconicPatcher.jar": {
       "sha1": "7056927adf63fe59c45c135d2be8001e5a3ab370",
@@ -1805,9 +1805,9 @@
       "sha1": "a81e3073285a2a5b340ec5dfebe8236e7cb9b580",
       "size": 9531211
     },
-    "mods/appliedenergistics2-rv3-beta-1029-GTNH.jar": {
-      "sha1": "5c553c8e8ca837c8566fcc863b32f0a62f1412a4",
-      "size": 4819934
+    "mods/appliedenergistics2-rv3-beta-1030-GTNH.jar": {
+      "sha1": "07487d46c728e68034f1bc4fcd6166c6a3309537",
+      "size": 4819965
     },
     "mods/backpack-2.6.16-GTNH.jar": {
       "sha1": "d5f74d13d23a209b7264d698fb477be35521f24d",
@@ -1845,17 +1845,17 @@
       "sha1": "58980996269d253fd37940b06e018077dd30b893",
       "size": 399809
     },
-    "mods/etfuturum-2.6.51-GTNH.jar": {
-      "sha1": "6e959ed82a8a4b591a39261276c4c3afde43fc72",
-      "size": 5294549
+    "mods/etfuturum-2.6.52-GTNH.jar": {
+      "sha1": "859ff6a24b6227ae4070af483408e32d410048c9",
+      "size": 5294551
     },
     "mods/gtnhlib-0.11.37.jar": {
       "sha1": "f5198e9bf4df61610d5327d4b40662bd67a16490",
       "size": 1384832
     },
-    "mods/hodgepodge-2.7.183.jar": {
-      "sha1": "6767d9ebd4c0a38094b139aaa6882ba73031004a",
-      "size": 1092495
+    "mods/hodgepodge-2.7.184.jar": {
+      "sha1": "e193e50c5f78dff7a70923759ac895b7847f3b6f",
+      "size": 1092492
     },
     "mods/industrialcraft-2-2.2.828-experimental.jar": {
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
