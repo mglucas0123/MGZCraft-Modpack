@@ -1,6 +1,6 @@
 {
-  "revision": "646f4e08c96b523d98ce89fa0d2ac1d7e2dbfdb5",
-  "generated_at": "2026-08-10T16:05:18Z",
+  "revision": "324507c61ab542bc0d73ef5d45eda624b883689a",
+  "generated_at": "2026-08-10T17:02:36Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -71,373 +71,17 @@
       "sha1": "25fd97f72beca728112256938e03e8105b1b78cc",
       "size": 3018833
     },
-    "config/ActuallyAdditions.cfg": {
-      "sha1": "5ec629546d7c3bafc6e0b02ef6fe7ca8558af787",
-      "size": 16593
-    },
-    "config/AdvancedSolarPanel.cfg": {
-      "sha1": "3343690d52c722003285bd1c4ae9bb021de101e8",
-      "size": 1181
-    },
-    "config/AdvancedSolarPanel_MTRecipes.cfg": {
-      "sha1": "31de1f521ab42ca39dfa1032ab0a415c67294254",
-      "size": 2237
-    },
-    "config/Avaritia.cfg": {
-      "sha1": "01d797920bc135decbbeee406aec3a4b573ce7af",
-      "size": 3512
-    },
-    "config/Backpack.cfg": {
-      "sha1": "0c5527f116437f67b5aeb5d66f65670fd9caeab8",
-      "size": 2598
-    },
-    "config/Baubles.cfg": {
-      "sha1": "e2d86a91caa9c7aecfa5bbdae22569eb5218259d",
-      "size": 2469
-    },
-    "config/Botania.cfg": {
-      "sha1": "3d7c3985281f0c14213fc6129a65fa413031b1ae",
-      "size": 101684
-    },
-    "config/CodeChickenCore.cfg": {
-      "sha1": "65fb2c33a5791c09a8d8628426b8a2245e002a60",
-      "size": 1016
-    },
-    "config/DraconicEvolution.cfg": {
-      "sha1": "2722ce0e4bac359e7aa3066ddb669b060a930615",
-      "size": 7150
-    },
-    "config/EnderStorage.cfg": {
-      "sha1": "fe6a62886b7487b7dac07017e3b08f7bd736b873",
-      "size": 1151
-    },
-    "config/ExtraUtilities.cfg": {
-      "sha1": "fa493aaf21da8efb01cb8042ff94d5796adb692d",
-      "size": 5612
-    },
-    "config/FLabsBF.cfg": {
-      "sha1": "e377841b45dd2cb3ddc41742dabe1ef032f119c7",
-      "size": 79
-    },
-    "config/ForbiddenMagic.cfg": {
-      "sha1": "fae69b5957bd6ba7c9c12e24785039f2e8afb9ab",
-      "size": 4426
-    },
-    "config/IC2.ini": {
-      "sha1": "68383513d17d467a02f126883c88fe420c2fa1cd",
-      "size": 6213
-    },
-    "config/InvTweaks.cfg": {
-      "sha1": "16078dd21ef48941a17fe8c4d21da7cf8b8fd9ff",
-      "size": 695
-    },
-    "config/MGZCORE.cfg": {
-      "sha1": "9b282312d57d28915ceb4a30ace38d7da85dabd3",
-      "size": 462
-    },
-    "config/MineTweaker3.cfg": {
-      "sha1": "176ac25dad3dc5a98d7cf180a56c4c3f42b5f05a",
-      "size": 863
-    },
-    "config/NEID.cfg": {
-      "sha1": "30a1c5e70f2f23be941676dca53a91cbc1c23e0b",
-      "size": 586
-    },
-    "config/NecroTempusConfig.cfg": {
-      "sha1": "5169bce9be0fddaafa2f75a3ba070bc417d2242a",
-      "size": 1583
-    },
-    "config/PacketUnlimiter.cfg": {
-      "sha1": "94599fd74e4df6ba5a7f6b68c591da15062c617d",
-      "size": 543
-    },
     "config/TTCCORE.cfg": {
       "sha1": "090a1892993b161c0239b55b51fb03b148d0ae95",
       "size": 1044
-    },
-    "config/TaintedMagic.cfg": {
-      "sha1": "b3179e3ad4a8618a747ff62500877940d9dc4aa2",
-      "size": 2052
-    },
-    "config/Thaumcraft.cfg": {
-      "sha1": "ff04c27803e65e98b44a0a778d33b97163751837",
-      "size": 9048
-    },
-    "config/ThaumicExploration.cfg": {
-      "sha1": "f9ad67f93ede537208c8b561f937f871b1222d45",
-      "size": 1816
-    },
-    "config/ThaumicTinkerer.cfg": {
-      "sha1": "f3e174d3bfaee8524c8e19a9bfe8399c539fa891",
-      "size": 5407
-    },
-    "config/UniqueNames.txt": {
-      "sha1": "b2b6b5c90e396c148ce0dcb29e24b578d05110cd",
-      "size": 244446
-    },
-    "config/Waila.cfg": {
-      "sha1": "d39570612d708af9c77a8383864f1e840fc15a25",
-      "size": 4938
-    },
-    "config/ae2stuff.cfg": {
-      "sha1": "1f3ed18c5bde127e7f21e94baf71d0a24f960d58",
-      "size": 374
-    },
-    "config/angelica-compat.cfg": {
-      "sha1": "b1ce305a3e1b88bf9eb1843b3b7674499bedc836",
-      "size": 797
-    },
-    "config/angelica-modules.cfg": {
-      "sha1": "94e2033040fc87a1bc21f30f79a7653256dafb96",
-      "size": 13450
-    },
-    "config/archaicfix.cfg": {
-      "sha1": "9c4897ef59c3e4e9ea2000039ad0ab44bb6ccdf3",
-      "size": 6242
-    },
-    "config/bspkrsCore.cfg": {
-      "sha1": "2ebe991d0d15eb6e3d7b9b640caeffa4d6be10a5",
-      "size": 1388
-    },
-    "config/chisel.cfg": {
-      "sha1": "7f82f597760c2b3bcd3a6535f307a72a003c0d8b",
-      "size": 8654
-    },
-    "config/chromatictooltips.cfg": {
-      "sha1": "2cdb2e5dd4ea0776e21cb8e8ba6d8d001b412c6f",
-      "size": 2686
-    },
-    "config/chromatictooltipscompat.cfg": {
-      "sha1": "c9f9f795aba9d2785e2907fe7e9eaa0b0219d3db",
-      "size": 5157
     },
     "config/craftpresence.json": {
       "sha1": "324f09483f61664f225f037086bbd0ec45470938",
       "size": 4433
     },
-    "config/eplus.cfg": {
-      "sha1": "454ee27c422b9babd29f39919800bb18982d1e76",
-      "size": 8915
-    },
-    "config/fluxedcore.cfg": {
-      "sha1": "3a979229073b9fc4a31d9af1b2ee69e3a42a98c3",
-      "size": 441
-    },
-    "config/forge.cfg": {
-      "sha1": "5db07a5a3abfdb94a68f60ae73e76c8e5fec27d9",
-      "size": 2307
-    },
-    "config/forgeChunkLoading.cfg": {
-      "sha1": "55bd15caa846706ac75f308ce7c96a6c66987b64",
-      "size": 2123
-    },
-    "config/gtnhlib-number-formatting.cfg": {
-      "sha1": "59b60e7c0028a3c6cb5406f78add30e0f58d08e9",
-      "size": 2536
-    },
-    "config/gtnhlib.cfg": {
-      "sha1": "b081a8077fad78ba655f9bbea77ff0f0d6f8b394",
-      "size": 3505
-    },
-    "config/hodgepodge.cfg": {
-      "sha1": "47be8b4cd8e6f639d9d1fefe6fced666f78f5497",
-      "size": 62350
-    },
-    "config/hodgepodgeEarly.properties": {
-      "sha1": "e02885377e246e02756782694a164113dd3ab918",
-      "size": 184
-    },
-    "config/industrialupgrade.cfg": {
-      "sha1": "14afc8f404101e4ea98ac1c3cb00d6f8a39d9194",
-      "size": 14815
-    },
-    "config/multipart.cfg": {
-      "sha1": "7b9a6acba80c51bde37c1a197d2d3a078c7525ff",
-      "size": 248
-    },
-    "config/orespawn.cfg": {
-      "sha1": "0968c4a1cc5f3ab95b05f61d3ea6a09d2e6de2eb",
-      "size": 6653
-    },
-    "config/recipehandler.cfg": {
-      "sha1": "80a4f6fa2c523deae22c0e65f7576162246c1bbe",
-      "size": 402
-    },
-    "config/shaders.properties": {
-      "sha1": "f1155d724d9e8338858f84ab597cdcea07b7fbf4",
-      "size": 306
-    },
-    "config/splash.properties": {
-      "sha1": "6e6547cf79eb7f703f5350d86d2da2988cf78f0e",
-      "size": 339
-    },
-    "config/tc4tweak.cfg": {
-      "sha1": "8afe95816723205e7962d4096811f4bdd66d5e44",
-      "size": 12241
-    },
-    "config/thaumicinsurgence.cfg": {
-      "sha1": "4dd5edbb55c3a896f3102a870ddb297fcba3ce8e",
-      "size": 65
-    },
-    "config/vampirism.cfg": {
-      "sha1": "3eeb2d84b6504b952580f6578bf00caad4bb7329",
-      "size": 6275
-    },
-    "config/vampirism_balance.cfg": {
-      "sha1": "6b13dff803162ed056b023dd8be28489bd06c632",
-      "size": 8238
-    },
-    "config/AM2/AM2.cfg": {
-      "sha1": "cb151a3cc876672ce445b714cecd77fd2e78c55d",
-      "size": 9028
-    },
-    "config/AM2/SkillConf.cfg": {
-      "sha1": "5bf3349449b6bf054e2242c6004a5159b683cd0f",
-      "size": 3032
-    },
-    "config/AppliedEnergistics2/AppliedEnergistics2.cfg": {
-      "sha1": "bdc9821cbccb8bdfa61d93cdcbcc4252c4de7749",
-      "size": 14779
-    },
-    "config/AppliedEnergistics2/CustomRecipes.cfg": {
-      "sha1": "b9d77754bb8272578895699a02c5061216301e2c",
-      "size": 946
-    },
-    "config/AppliedEnergistics2/Facades.cfg": {
-      "sha1": "d50bbdb5be1c6c3d3565ea47eca19bd9752d080e",
-      "size": 224348
-    },
-    "config/AppliedEnergistics2/recipes/items.csv": {
-      "sha1": "ef0e222495fe797d60342351c5c56c420bb523a8",
-      "size": 1111925
-    },
-    "config/Betterloadingscreen/betterloadingscreen.cfg": {
-      "sha1": "d93d9830f25436bed8adc16e58fd9dcd8f8d8237",
-      "size": 2359
-    },
-    "config/BigReactors/BigReactors.cfg": {
-      "sha1": "afa5830a60e3c63dac3cebb153ef5f5f0dbf2d52",
-      "size": 1564
-    },
-    "config/MagicalCrops/Crafting.cfg": {
-      "sha1": "810912d589a4330b9eb387157e1f55a18530e0b7",
-      "size": 4730
-    },
-    "config/MagicalCrops/CropDisableConfig.cfg": {
-      "sha1": "b9645ab66e258351ce0968d9fdee0a97c81f08d3",
-      "size": 2026
-    },
-    "config/MagicalCrops/MagicalCropsMain.cfg": {
-      "sha1": "b78162f59db82c29cac1d5d2be7fc4af2eb3c0bb",
-      "size": 3242
-    },
-    "config/NEI/client.cfg": {
-      "sha1": "b4d5de96041bd179ec06c1aa244fcbb025086dad",
-      "size": 8041
-    },
-    "config/OreSpawn/banlist.cfg": {
-      "sha1": "c1ba96db587b14a0c599637bc45d1edbf1f3eb7a",
-      "size": 143
-    },
-    "config/agricraft/Configuration.cfg": {
-      "sha1": "1493f1ef0bcf03c0c8a034ee1b07a5002d9d7028",
-      "size": 10454
-    },
-    "config/cofh/core/common.cfg": {
-      "sha1": "1b0a0b27d8b7ea4ea7cc8994e17256681db7c3e3",
-      "size": 1913
-    },
-    "config/cofh/core/loot.cfg": {
-      "sha1": "337ec97b831db4c970de5f565dc142463df0cb39",
-      "size": 690
-    },
-    "config/cofh/thermaldynamics/client.cfg": {
-      "sha1": "3351fe2667a0c9f53e8e375872dfcf222743b5f7",
-      "size": 630
-    },
-    "config/cofh/thermaldynamics/common.cfg": {
-      "sha1": "196cfdbb894807bb44c4c261a7d5188a2f10962d",
-      "size": 1124
-    },
-    "config/cofh/thermalexpansion/client.cfg": {
-      "sha1": "548313831372b12778eb6bb7fe9edcc89f732fbe",
-      "size": 1583
-    },
-    "config/cofh/thermalexpansion/common.cfg": {
-      "sha1": "94e539a74ad9ed24f09b248da161dd84cd53e232",
-      "size": 13747
-    },
-    "config/cofh/thermalexpansion/florbs.cfg": {
-      "sha1": "72f42e0f862f5d8b88b0326bc3111b0c15977365",
-      "size": 1809
-    },
-    "config/cofh/thermalexpansion/fuels.cfg": {
-      "sha1": "5fbcad6afdeb9890cb5e5a3bc7650f5beae7c44c",
-      "size": 3107
-    },
-    "config/cofh/thermalfoundation/client.cfg": {
-      "sha1": "24b7c0b2e669f11a823f3bd9934ae2ea76c15324",
-      "size": 418
-    },
-    "config/cofh/thermalfoundation/common.cfg": {
-      "sha1": "c2d3559398efb087c3650156621c45f2d5ad0b85",
-      "size": 12019
-    },
     "config/contenttweaker/resourcepack/ContentTweaker-Resourcepack.zip": {
       "sha1": "4e6d6b60fdf63cda261fc3a843a522a9e200d7e4",
       "size": 203
-    },
-    "config/endercore/endercore.cfg": {
-      "sha1": "ebab03335ab2876672c63e7595d2ea2d2c0925d0",
-      "size": 2769
-    },
-    "config/enderio/EnderIO.cfg": {
-      "sha1": "f2eb961c0ca167a9705d3c4096686133065f4a2d",
-      "size": 49211
-    },
-    "config/etfuturum/blocksitems.cfg": {
-      "sha1": "432ace02681afe7a34d2042288c065567d5d8cbe",
-      "size": 23205
-    },
-    "config/etfuturum/entities.cfg": {
-      "sha1": "0e4cc792862c71859bf8c81dea5464ce1fe548c5",
-      "size": 2852
-    },
-    "config/etfuturum/functions.cfg": {
-      "sha1": "5f1d669faed6370778cf4504e4c5867ea8711907",
-      "size": 15269
-    },
-    "config/etfuturum/mixins.cfg": {
-      "sha1": "b566e5d2915ae0991f0ca6a1a7849cb0110b11b2",
-      "size": 11499
-    },
-    "config/etfuturum/modcompat.cfg": {
-      "sha1": "9ef83b561b466320d15bba389132ea4cafb3b5c3",
-      "size": 4180
-    },
-    "config/etfuturum/world.cfg": {
-      "sha1": "476696afce5ba466a3586f4b0a92276992268a9d",
-      "size": 11800
-    },
-    "config/gliby_vc/ClientSettings.ini": {
-      "sha1": "a6e5c5b0b7966398fa82d57bcd8713d4847fffa5",
-      "size": 494
-    },
-    "config/mobsinfo/mobsinfo.cfg": {
-      "sha1": "be192685a5b106a8abe94bb1ee9d181249193081",
-      "size": 1783
-    },
-    "config/powercrystals/minefactoryreloaded/client.cfg": {
-      "sha1": "6b634f011ee764dcc80a500e19cce12c26ab1985",
-      "size": 468
-    },
-    "config/powercrystals/minefactoryreloaded/common.cfg": {
-      "sha1": "47399c4226009a8a9cf466477027c1fad9c8b430",
-      "size": 18071
-    },
-    "config/praesidium-evolutionis/common.cfg": {
-      "sha1": "c883155282471cddb35d91d9f75881a372d6ba4f",
-      "size": 690
     },
     "mods/+unimixins-all-1.7.10-0.3.1.jar": {
       "sha1": "75f9251b1ac4eeacdce0b86a1a68bd8ff4fbf604",
@@ -855,9 +499,21 @@
       "sha1": "ace224078b04b7eea7541cde4f7630a89b4831cc",
       "size": 3456096
     },
+    "sharedconfig/ActuallyAdditions.cfg": {
+      "sha1": "4d260e4037220816af7c4c9b0494b0eb131ed06b",
+      "size": 16594
+    },
     "sharedconfig/AdvancedBotany.cfg": {
       "sha1": "f5a1960989e9271d640f6ceeb331d0c165ebc90e",
       "size": 4864
+    },
+    "sharedconfig/AdvancedSolarPanel.cfg": {
+      "sha1": "a9103a3053810d911fab85cb1d04bc61eea3a7c0",
+      "size": 1138
+    },
+    "sharedconfig/AdvancedSolarPanel_MTRecipes.cfg": {
+      "sha1": "1d5bc235d0dfab2da6dbd95b223070c413596baf",
+      "size": 2226
     },
     "sharedconfig/ArchitectureCraft.cfg": {
       "sha1": "4cd1d008de8ff0fcd6a9efd593d0c80a9f852658",
@@ -867,9 +523,29 @@
       "sha1": "318f22c7086184df7adf9ab331e40646093824d1",
       "size": 3555
     },
+    "sharedconfig/Avaritia.cfg": {
+      "sha1": "387d5529229a81ac96429e5ed02aaa7faa7f8926",
+      "size": 3409
+    },
     "sharedconfig/Avaritiaddons.cfg": {
       "sha1": "265d08f2c4921e9b35dfe862de63af519753e4bc",
       "size": 667
+    },
+    "sharedconfig/Backpack.cfg": {
+      "sha1": "af78fc0d46d922d5afb086943cdf1dc651c77711",
+      "size": 2493
+    },
+    "sharedconfig/Baubles.cfg": {
+      "sha1": "c71a9de834f478ef6f3e110af9a5f328474b5ac4",
+      "size": 2380
+    },
+    "sharedconfig/Botania.cfg": {
+      "sha1": "43d3c46e6a1cd49f7851438ea573084a68130694",
+      "size": 98908
+    },
+    "sharedconfig/CodeChickenCore.cfg": {
+      "sha1": "aacdb9731469e2a434061347e461ac1f93c3beb0",
+      "size": 986
     },
     "sharedconfig/ConsoleClear.cfg": {
       "sha1": "7819fbef14afcc4d8972ba3252411e540028528d",
@@ -887,9 +563,37 @@
       "sha1": "ad5ad6e13c95b219db804f268fbbe10b5dedf690",
       "size": 9340
     },
+    "sharedconfig/DraconicEvolution.cfg": {
+      "sha1": "d1baa4035f709cf2f01153c63340792df6e197f1",
+      "size": 6942
+    },
+    "sharedconfig/EnderStorage.cfg": {
+      "sha1": "e9c7dcb38d00796561cf4a69813d6b640cdb812e",
+      "size": 1116
+    },
+    "sharedconfig/ExtraUtilities.cfg": {
+      "sha1": "8873ae6e5f3afa45357663dbf69645164723c7c0",
+      "size": 5421
+    },
+    "sharedconfig/FLabsBF.cfg": {
+      "sha1": "2cdc177c536eba238dce0c4add3dff4a1c03e0af",
+      "size": 72
+    },
+    "sharedconfig/ForbiddenMagic.cfg": {
+      "sha1": "060bf795e802fd9a914ae53b5bcb5bdaade3966a",
+      "size": 4272
+    },
     "sharedconfig/IC2.cfg": {
       "sha1": "663a23e1becb14fad3d9cb830b096c472652c980",
       "size": 5911
+    },
+    "sharedconfig/IC2.ini": {
+      "sha1": "70c2512a79b17806f35ad5d6e86ec8191e169378",
+      "size": 6026
+    },
+    "sharedconfig/InvTweaks.cfg": {
+      "sha1": "275682db151c885dc164ddb3d31d43075bce9cd0",
+      "size": 695
     },
     "sharedconfig/InvTweaksRules.txt": {
       "sha1": "cf7e4a3443bde9740a4227605af6174480bde05c",
@@ -903,6 +607,10 @@
       "sha1": "aab7e5970d8583d4e2f6bf66a4c13a5c9e2e2b8b",
       "size": 1036
     },
+    "sharedconfig/MGZCORE.cfg": {
+      "sha1": "dec61bb63cf585bf755acaf4e416fe25b8f78197",
+      "size": 1699
+    },
     "sharedconfig/Mekanism.cfg": {
       "sha1": "08421c81f31a0594cf4bfb4a90e766176a2c8564",
       "size": 11986
@@ -910,6 +618,38 @@
     "sharedconfig/MemoryCleaner.cfg": {
       "sha1": "3ce52a05ac4f6a703a03ee974b3d133585e7fdea",
       "size": 204
+    },
+    "sharedconfig/MineTweaker3.cfg": {
+      "sha1": "9fb2b4ddc09221420f69a0642b28b27fbda018fc",
+      "size": 835
+    },
+    "sharedconfig/NEID.cfg": {
+      "sha1": "40a48b946c0fed578a9a0b7251ef1b156169c70d",
+      "size": 569
+    },
+    "sharedconfig/NecroTempusConfig.cfg": {
+      "sha1": "7ff854e0adb00001ad9f31be68335e8f5184f646",
+      "size": 1531
+    },
+    "sharedconfig/PacketUnlimiter.cfg": {
+      "sha1": "8bcd50db9ce4933aacc2080557f4cacacf722a71",
+      "size": 526
+    },
+    "sharedconfig/TaintedMagic.cfg": {
+      "sha1": "88d7673417db923bad0c341596e49ff795b58aca",
+      "size": 1985
+    },
+    "sharedconfig/Thaumcraft.cfg": {
+      "sha1": "aa4aca318ff4b16577210c99fa0134efbfad44d5",
+      "size": 8837
+    },
+    "sharedconfig/ThaumicExploration.cfg": {
+      "sha1": "facda7617e28a67625c5aaafc11514d61a16d70d",
+      "size": 1755
+    },
+    "sharedconfig/ThaumicTinkerer.cfg": {
+      "sha1": "9f1af5254dcfe7fbe444d179abff2784f74fe8e7",
+      "size": 5268
     },
     "sharedconfig/TwilightForest.cfg": {
       "sha1": "5ecb59c40b3a8a1077bc37876426f133cd0c902b",
@@ -919,13 +659,33 @@
       "sha1": "e04de761f2526538ad4658765b95abe74535e117",
       "size": 4478
     },
+    "sharedconfig/UniqueNames.txt": {
+      "sha1": "4287c46fcf084218515afe760f9ea1a963a3b86f",
+      "size": 235570
+    },
     "sharedconfig/UpdateCheckLib.cfg": {
       "sha1": "ec18b361ae158c06b724bf334ee02fe703261e8f",
       "size": 971
     },
+    "sharedconfig/Waila.cfg": {
+      "sha1": "4a2553e0ade2bbe1fbb7e241e639be2435289a02",
+      "size": 4791
+    },
     "sharedconfig/WirelessCraftingTerminal.cfg": {
       "sha1": "7f9d5136b0bd20452136b4502974e4c1c1aa0dae",
       "size": 798
+    },
+    "sharedconfig/ae2stuff.cfg": {
+      "sha1": "8c8ff896eced71015bba9c63b04845499c8b858e",
+      "size": 363
+    },
+    "sharedconfig/angelica-compat.cfg": {
+      "sha1": "0a0de18ed967b6e6da9c5666f10011173fe92834",
+      "size": 1118
+    },
+    "sharedconfig/angelica-modules.cfg": {
+      "sha1": "a7fd8b4e6e02d5a08c1f53187fef87f4434bcbc2",
+      "size": 9284
     },
     "sharedconfig/angelica-options.json": {
       "sha1": "460e8cf43e1ba25fa927d53b313134a7d132e5ae",
@@ -935,21 +695,101 @@
       "sha1": "5aa88c884551252ba65d82eec39af5d37abb3903",
       "size": 2332
     },
+    "sharedconfig/archaicfix.cfg": {
+      "sha1": "9f0b345973302fe7ca95f6ed43f44f478f1b7c33",
+      "size": 6099
+    },
     "sharedconfig/bettercrashes.cfg": {
       "sha1": "a1a50e384e226a09aa5ab5b60a14be3ad20ae2ad",
       "size": 1383
+    },
+    "sharedconfig/bspkrsCore.cfg": {
+      "sha1": "4af0fae312ddf701491ce0a009bdba9ebd7ad7ee",
+      "size": 1361
+    },
+    "sharedconfig/chisel.cfg": {
+      "sha1": "04a29e0b104822c6f7126e207fa392999b546eeb",
+      "size": 8356
+    },
+    "sharedconfig/chromatictooltips.cfg": {
+      "sha1": "eceee5a5165427063309987555b87e7982005f91",
+      "size": 3373
+    },
+    "sharedconfig/chromatictooltipscompat.cfg": {
+      "sha1": "b8007d72dc6a9e19c787d3af198fa4942bf40ba5",
+      "size": 4996
+    },
+    "sharedconfig/eplus.cfg": {
+      "sha1": "13fc08aa50eaa39ca40aae04f22eabe5c0210882",
+      "size": 8718
     },
     "sharedconfig/falsepatternlib-early.json": {
       "sha1": "a1bf7d450106df829d292d07f36bf91f56e155a5",
       "size": 69
     },
+    "sharedconfig/fluxedcore.cfg": {
+      "sha1": "8c871cddf52eebef582007072512cf2a4a87d235",
+      "size": 415
+    },
+    "sharedconfig/forge.cfg": {
+      "sha1": "a39d0993c763c683f01c8a835fc4dbee66366139",
+      "size": 2305
+    },
+    "sharedconfig/forgeChunkLoading.cfg": {
+      "sha1": "6283d4d1b2f93f3162599bc4413b1d239d2a5166",
+      "size": 2070
+    },
+    "sharedconfig/gtnhlib-number-formatting.cfg": {
+      "sha1": "f04d116c5c439d51edb97a41b08fa21e867a30d5",
+      "size": 2492
+    },
+    "sharedconfig/gtnhlib.cfg": {
+      "sha1": "5b8b2ce8666476c2b1ade470a7c9d999a20acd01",
+      "size": 3422
+    },
+    "sharedconfig/hodgepodge.cfg": {
+      "sha1": "86e7d1ece44294194e961f30c7c1cba9e40d025e",
+      "size": 60981
+    },
+    "sharedconfig/hodgepodgeEarly.properties": {
+      "sha1": "6792d5a7e6f7d5809743a4d255cbf1d2d78d4d4d",
+      "size": 179
+    },
+    "sharedconfig/industrialupgrade.cfg": {
+      "sha1": "c2ebe39db42ae42b1bff0a615b962e6d27872dc2",
+      "size": 14436
+    },
     "sharedconfig/microblocks.cfg": {
       "sha1": "3afbefc6852d959f51ad47d5bea836e159ad8713",
       "size": 488
     },
+    "sharedconfig/multipart.cfg": {
+      "sha1": "930b6ac3365f5713ed84075f6c219d75dcfcd628",
+      "size": 227
+    },
+    "sharedconfig/orespawn.cfg": {
+      "sha1": "2363743442a3e7a55f52971e4eab209397463d46",
+      "size": 6388
+    },
     "sharedconfig/overloadedarmorbar.cfg": {
       "sha1": "9e0aceceb475c4cd231f8a1d28d03a37fc393d31",
       "size": 574
+    },
+    "sharedconfig/recipehandler.cfg": {
+      "sha1": "377b108075e8e2e9e933883695bf4d9ad71a95c2",
+      "size": 385
+    },
+    "sharedconfig/shaders.properties": {
+      "sha1": "5d211926fcb72a0b63805cdb2d8c5b6a6ba9f0ad",
+      "size": 248
+    },
+    "sharedconfig/splash.properties": {
+      "sha1": "e49396156dd484aae2eaa2df6d30eb20a1e3977a",
+      "size": 339
+    },
+    "sharedconfig/tc4tweak.cfg": {
+      "sha1": "1b9d1d6595f28a6aa20e2d16be80d592ec5bfee4",
+      "size": 11953
     },
     "sharedconfig/tcneiadditions.cfg": {
       "sha1": "6426f34642e94123772920276e01fbc779e4ac0c",
@@ -963,9 +803,21 @@
       "sha1": "04597e29294958a9845e3587d841f054235be2e8",
       "size": 2471
     },
+    "sharedconfig/thaumicinsurgence.cfg": {
+      "sha1": "b6ba4e1f8bb7ced124bf1c65cfe831fc50aba9c6",
+      "size": 58
+    },
     "sharedconfig/unimixins.properties": {
       "sha1": "93c079b4217a4fc1c48a6085c7ab531b2ec06d61",
       "size": 764
+    },
+    "sharedconfig/vampirism.cfg": {
+      "sha1": "b8ba32ae9b555fda53fdd68a49cf9f1c32fc9c25",
+      "size": 6883
+    },
+    "sharedconfig/vampirism_balance.cfg": {
+      "sha1": "3c088740d17d44591a4d6afe2b03f25fbe604f41",
+      "size": 8158
     },
     "sharedconfig/vampirism_village_biomes.cfg": {
       "sha1": "a27949aa706a9fa9eea27fe1281b6d1c85fdc57d",
@@ -975,6 +827,26 @@
       "sha1": "5421b05be817d289357aee7a4e3686dee25069fc",
       "size": 200
     },
+    "sharedconfig/AM2/AM2.cfg": {
+      "sha1": "dfaa502a40c4ba48887576962632d6ed8b523703",
+      "size": 8574
+    },
+    "sharedconfig/AM2/SkillConf.cfg": {
+      "sha1": "893430fc414685ddce6e8f346cf39b6df4aceb05",
+      "size": 2900
+    },
+    "sharedconfig/AppliedEnergistics2/AppliedEnergistics2.cfg": {
+      "sha1": "232defaa76f7c99f5f9d3870658dfded95b59a13",
+      "size": 14697
+    },
+    "sharedconfig/AppliedEnergistics2/CustomRecipes.cfg": {
+      "sha1": "573a99e59db1a53e6584857ee1fd412949487be3",
+      "size": 921
+    },
+    "sharedconfig/AppliedEnergistics2/Facades.cfg": {
+      "sha1": "a67ab6a59c4502d4ac195069338e24c0ef0ab033",
+      "size": 215430
+    },
     "sharedconfig/AppliedEnergistics2/MeteoriteLootTable.json": {
       "sha1": "75c11d1d529ba4f683202a894a6a46ee412dcbbd",
       "size": 13343
@@ -982,6 +854,10 @@
     "sharedconfig/AppliedEnergistics2/recipes/README.html": {
       "sha1": "adb2c8d1f2a4c58c3c56fa5eea66bac234b43215",
       "size": 14727
+    },
+    "sharedconfig/AppliedEnergistics2/recipes/items.csv": {
+      "sha1": "4590df463631b31bc04fafb85d2cace7e0024cae",
+      "size": 34
     },
     "sharedconfig/AppliedEnergistics2/recipes/generated/aliases.recipe": {
       "sha1": "6b47570af7634bbbbb6cc180a836ec48143caf26",
@@ -1331,9 +1207,17 @@
       "sha1": "967835263ce87d656e56ecd67468f45cd2ba556d",
       "size": 8769
     },
+    "sharedconfig/Betterloadingscreen/betterloadingscreen.cfg": {
+      "sha1": "8af2d26f43c777f0f85dc7b21099da7756622878",
+      "size": 1971
+    },
     "sharedconfig/Betterloadingscreen/tips/en_US.txt": {
       "sha1": "04caf89c7bf8eaf977fb5c64e5004c49e30d9875",
       "size": 7445
+    },
+    "sharedconfig/BigReactors/BigReactors.cfg": {
+      "sha1": "e35768b30b76f4fb4b6ca8a02581a9929d0c9eaf",
+      "size": 1506
     },
     "sharedconfig/CustomMainMenu/mainmenu.json": {
       "sha1": "c4725cd1d207a5fa55ac79fe5c844be3957a0655",
@@ -1435,6 +1319,22 @@
       "sha1": "b767107b2e922e5f618323b783eb7902185a25b7",
       "size": 122
     },
+    "sharedconfig/MagicalCrops/Crafting.cfg": {
+      "sha1": "7b78a7d19e757b90c02ef7b602bb3dcc14ff6c71",
+      "size": 4623
+    },
+    "sharedconfig/MagicalCrops/CropDisableConfig.cfg": {
+      "sha1": "159082a836ce138fccfc3abfdffaceff1863b083",
+      "size": 1946
+    },
+    "sharedconfig/MagicalCrops/MagicalCropsMain.cfg": {
+      "sha1": "971d0ccf97c20f3a8ce4fed44a02c90000f6afc3",
+      "size": 3176
+    },
+    "sharedconfig/NEI/client.cfg": {
+      "sha1": "493f6fa38fdb58dbba27c3e1ec5278be9902a380",
+      "size": 8438
+    },
     "sharedconfig/NEI/collapsibleitems.cfg": {
       "sha1": "e66cb7f970b38f3958d001161c85c39ddb12f246",
       "size": 992
@@ -1486,6 +1386,10 @@
     "sharedconfig/NEI/serialhandlers.cfg": {
       "sha1": "994eb969a67b6f7b6a48d6f7f69b9355ac4ca86d",
       "size": 525
+    },
+    "sharedconfig/OreSpawn/banlist.cfg": {
+      "sha1": "bba4975b0537193b4414396d256ef778ad8bcbfa",
+      "size": 133
     },
     "sharedconfig/ThaumcraftMobAspects/AdvancedBotany.cfg": {
       "sha1": "17c271e44d6152e21cf0690b4a11557315290a27",
@@ -1623,6 +1527,10 @@
       "sha1": "0b7c00369c4f89674ca1de2b271b2ba6edf791df",
       "size": 4077
     },
+    "sharedconfig/agricraft/Configuration.cfg": {
+      "sha1": "87a7e056c4a652393b9092962c4762dc0c6b457b",
+      "size": 9392
+    },
     "sharedconfig/agricraft/GrassDrops.txt": {
       "sha1": "9fe889d8e8c2bdb892032c518ec1d8867c626fa1",
       "size": 406
@@ -1707,9 +1615,49 @@
       "sha1": "e925c19e3c9b46a99988cebe1754dc1cf201aa16",
       "size": 2941
     },
+    "sharedconfig/cofh/core/common.cfg": {
+      "sha1": "51fc6f35f267a104d8da36f2fd856a40904002b5",
+      "size": 1846
+    },
     "sharedconfig/cofh/core/friends.cfg": {
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "size": 0
+    },
+    "sharedconfig/cofh/core/loot.cfg": {
+      "sha1": "50610b1976ff50315af20ae28ecdd87724805b5c",
+      "size": 647
+    },
+    "sharedconfig/cofh/thermaldynamics/client.cfg": {
+      "sha1": "1442d20953a3aa850ffe66df6237e97ec9280fda",
+      "size": 595
+    },
+    "sharedconfig/cofh/thermaldynamics/common.cfg": {
+      "sha1": "73d2465930359af244ee678c20c9d26ff70e9021",
+      "size": 1036
+    },
+    "sharedconfig/cofh/thermalexpansion/client.cfg": {
+      "sha1": "c7c5b41c67850def42fd6c410dbd924e4f32adce",
+      "size": 1493
+    },
+    "sharedconfig/cofh/thermalexpansion/common.cfg": {
+      "sha1": "87863f62a5fe32b2dc94fd0060ce8cce2bc0eb0d",
+      "size": 13006
+    },
+    "sharedconfig/cofh/thermalexpansion/florbs.cfg": {
+      "sha1": "df6172d1b6ee9fd7b2a442549f187224e1ef0f00",
+      "size": 1727
+    },
+    "sharedconfig/cofh/thermalexpansion/fuels.cfg": {
+      "sha1": "2ac955fd9c9bf26c4bd9692ec879a5df1991fb1a",
+      "size": 3029
+    },
+    "sharedconfig/cofh/thermalfoundation/client.cfg": {
+      "sha1": "190f16913b7fb66da344f901f782a17c670d592c",
+      "size": 389
+    },
+    "sharedconfig/cofh/thermalfoundation/common.cfg": {
+      "sha1": "a60a10adb4c47a561b8bc87a0b336e3867bec1fa",
+      "size": 11503
     },
     "sharedconfig/cofh/thermalfoundation/lexicon-whitelist.cfg": {
       "sha1": "b03bdea8c325caec99ac9d07fbcb510d6ccbd169",
@@ -1835,6 +1783,10 @@
       "sha1": "2efca3124e0407e038222e38fc34de6e30c0a05d",
       "size": 444
     },
+    "sharedconfig/endercore/endercore.cfg": {
+      "sha1": "26d5d35c828a7c9fc030f8003e17f55cb0cc53f3",
+      "size": 2666
+    },
     "sharedconfig/enderio/AlloySmelterRecipes_Core.xml": {
       "sha1": "648c7138c8a839180099f1eb233b2198e7596b7e",
       "size": 17914
@@ -1850,6 +1802,10 @@
     "sharedconfig/enderio/EnchanterRecipes_User.xml": {
       "sha1": "d5801ab22f789f9b497bb49910bf73fd596dd4ba",
       "size": 867
+    },
+    "sharedconfig/enderio/EnderIO.cfg": {
+      "sha1": "9c8e3e4d1c6ef37b026aa25247e6103142ffd8dd",
+      "size": 50340
     },
     "sharedconfig/enderio/OreDictionaryPreferences_Core.xml": {
       "sha1": "314a5adf927d05cfd8258b8ec71ee27cfbb42a8c",
@@ -1899,13 +1855,33 @@
       "sha1": "a5e7f0dd70bb61514ddd8cd0ab416404ce2122c9",
       "size": 28
     },
+    "sharedconfig/etfuturum/blocksitems.cfg": {
+      "sha1": "28331e13d6c83f89ad3342460f4e3fe4043d7f9a",
+      "size": 23206
+    },
     "sharedconfig/etfuturum/enchantspotions.cfg": {
       "sha1": "7e070024baed6361ed7a33f4525fec615260ca14",
       "size": 1523
     },
+    "sharedconfig/etfuturum/entities.cfg": {
+      "sha1": "1d2acd18a0db218228a474f07de2f27980a125dd",
+      "size": 2769
+    },
     "sharedconfig/etfuturum/experiments.cfg": {
       "sha1": "9c440658e13f3101d25d7e8db50fbfc4714d1f10",
       "size": 3259
+    },
+    "sharedconfig/etfuturum/functions.cfg": {
+      "sha1": "8fd666450fb96a6518ac98d73711c2073738500c",
+      "size": 12380
+    },
+    "sharedconfig/etfuturum/mixins.cfg": {
+      "sha1": "3c80650da8e15e7284778c1d83af7ad455a4e6f2",
+      "size": 9893
+    },
+    "sharedconfig/etfuturum/modcompat.cfg": {
+      "sha1": "e1dca456905b9cdc18d628bfbadf9acb6d1609a4",
+      "size": 4127
     },
     "sharedconfig/etfuturum/sounds.cfg": {
       "sha1": "8a1438b1e53deec8c33d734baf273291f08c89c9",
@@ -1914,6 +1890,14 @@
     "sharedconfig/etfuturum/tweaks.cfg": {
       "sha1": "fa77131937e5f7e0854f0efbe5489eb98e1efe71",
       "size": 2978
+    },
+    "sharedconfig/etfuturum/world.cfg": {
+      "sha1": "a8661cad3ed4996366c4f77ff9a0499f0b6054b6",
+      "size": 10766
+    },
+    "sharedconfig/gliby_vc/ClientSettings.ini": {
+      "sha1": "1f8e7509b342abfb99262d0ec355c249dfc23d31",
+      "size": 390
     },
     "sharedconfig/gliby_vc/ServerSettings.ini": {
       "sha1": "5c94380edbfde3fad7405e48b8251e9ed82d5f8a",
@@ -1958,6 +1942,22 @@
     "sharedconfig/mobsinfo/MobOverrides.json": {
       "sha1": "a9108e011c466acab3b2d94d5da6191f9aadf75b",
       "size": 923
+    },
+    "sharedconfig/mobsinfo/mobsinfo.cfg": {
+      "sha1": "d9e669595a549351c1ccee19d647e220baa4615f",
+      "size": 1718
+    },
+    "sharedconfig/powercrystals/minefactoryreloaded/client.cfg": {
+      "sha1": "c0c36ba9e38c6bda8141759defda82ea80389685",
+      "size": 454
+    },
+    "sharedconfig/powercrystals/minefactoryreloaded/common.cfg": {
+      "sha1": "052ee329c5e92510a39c1d743d5f4e3188cd695d",
+      "size": 17544
+    },
+    "sharedconfig/praesidium-evolutionis/common.cfg": {
+      "sha1": "a8eff04300245def95da007ef079379326e79680",
+      "size": 668
     },
     "tools/server-deploy.json": {
       "sha1": "3fca475e36332f8785f5a8dc90766e84a4045e1f",
