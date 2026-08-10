@@ -1,6 +1,6 @@
 {
-  "revision": "31e76a20107b135980a6fbbd4c204b8f407fd22d",
-  "generated_at": "2026-08-10T19:44:30Z",
+  "revision": "b4ff60326f87710294e3d7b779a431982ad66ab5",
+  "generated_at": "2026-08-10T22:54:31Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1853,9 +1853,9 @@
       "sha1": "f5198e9bf4df61610d5327d4b40662bd67a16490",
       "size": 1384832
     },
-    "mods/hodgepodge-2.7.184.jar": {
-      "sha1": "e193e50c5f78dff7a70923759ac895b7847f3b6f",
-      "size": 1092492
+    "mods/hodgepodge-2.7.185.jar": {
+      "sha1": "0f9202630c67d804f9ee9de541f518d50c0527e4",
+      "size": 1113648
     },
     "mods/industrialcraft-2-2.2.828-experimental.jar": {
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
