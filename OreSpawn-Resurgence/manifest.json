@@ -1,6 +1,6 @@
 {
-  "revision": "459c1cd20db471b1097648a4354889df0c36fc15",
-  "generated_at": "2026-08-10T14:48:40Z",
+  "revision": "7060e6a83ef010c15ff1f181ad5583048feb8f5d",
+  "generated_at": "2026-08-10T14:58:03Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1977,9 +1977,9 @@
       "sha1": "fb2936b66646761230d447c7529d8b4429736b9e",
       "size": 16043
     },
-    "mods/NotEnoughItems-2.8.119-GTNH.jar": {
-      "sha1": "b49a1b196b75a735fdfba11afce90c3851bbe476",
-      "size": 1606834
+    "mods/NotEnoughItems-2.8.121-GTNH.jar": {
+      "sha1": "a461e51e92491c082251010f8a20536a84148f9a",
+      "size": 1606821
     },
     "mods/Patcher-DraconicPatcher.jar": {
       "sha1": "7056927adf63fe59c45c135d2be8001e5a3ab370",
@@ -2077,13 +2077,13 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.2.1.jar": {
-      "sha1": "a12dc0e342f8fae0614c3735eb53f096cb5c76e6",
-      "size": 9453508
+    "mods/angelica-2.2.3.jar": {
+      "sha1": "a81e3073285a2a5b340ec5dfebe8236e7cb9b580",
+      "size": 9531211
     },
-    "mods/appliedenergistics2-rv3-beta-1028-GTNH.jar": {
-      "sha1": "5c18c27d432cebc8be8a608877041d1d47b9d29c",
-      "size": 4809785
+    "mods/appliedenergistics2-rv3-beta-1029-GTNH.jar": {
+      "sha1": "5c553c8e8ca837c8566fcc863b32f0a62f1412a4",
+      "size": 4819934
     },
     "mods/backpack-2.6.16-GTNH.jar": {
       "sha1": "d5f74d13d23a209b7264d698fb477be35521f24d",
@@ -2097,9 +2097,9 @@
       "sha1": "d53f5dd2572547c7000dba8a08847d09eacba9f9",
       "size": 138968
     },
-    "mods/chisel-2.17.31-GTNH.jar": {
-      "sha1": "93fbfa3b4858cdc44e8f8102761d6a55488be15c",
-      "size": 7606956
+    "mods/chisel-2.17.32-GTNH.jar": {
+      "sha1": "f93577693219047309f05fb4afbbdc497a05c618",
+      "size": 7607474
     },
     "mods/chromatictooltips-1.0.34-GTNH.jar": {
       "sha1": "e373166404481c45156177363f4b47797755d55b",
@@ -2129,9 +2129,9 @@
       "sha1": "f5198e9bf4df61610d5327d4b40662bd67a16490",
       "size": 1384832
     },
-    "mods/hodgepodge-2.7.182.jar": {
-      "sha1": "5c4f59fed4d4afa00d865385509a998d30bc8c82",
-      "size": 1092535
+    "mods/hodgepodge-2.7.183.jar": {
+      "sha1": "6767d9ebd4c0a38094b139aaa6882ba73031004a",
+      "size": 1092495
     },
     "mods/industrialcraft-2-2.2.828-experimental.jar": {
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
