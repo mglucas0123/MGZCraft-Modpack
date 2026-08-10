@@ -1,8 +1,9 @@
 {
-  "revision": "332bee5fcdace2a2c3aaf9afab7d818c1db79535",
-  "generated_at": "2026-08-09T02:16:41Z",
+  "revision": "bb80f19825101de31dd98f3d0810e76f50debc52",
+  "generated_at": "2026-08-10T11:18:06Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
+    "clientmods",
     "config",
     "mods",
     "options.txt",
@@ -23,6 +24,54 @@
     "servers.dat": {
       "sha1": "50c32193e08d05831d0938bb1bc3758ef03bfbde",
       "size": 9627
+    },
+    "clientmods/Client-ArmorStatusHUD.jar": {
+      "sha1": "591212011b20ae3bbac8eec087ca443ba55cd895",
+      "size": 27281
+    },
+    "clientmods/Client-BetterFps.jar": {
+      "sha1": "5f95cfaac2c48448be48150105e735323b6697a1",
+      "size": 63223
+    },
+    "clientmods/Client-FpsReducer.jar": {
+      "sha1": "05782dc663eec3a38c920400f96c43e8c8be6dcb",
+      "size": 44091
+    },
+    "clientmods/Client-MemoryCleaner.jar": {
+      "sha1": "db4d16faaee2becb5101918e9d3f1fd273fd97ec",
+      "size": 14011
+    },
+    "clientmods/Client-archaicfix-0.8.0.jar": {
+      "sha1": "bc23c0b52560089424d84c1ff4e9ac1d04fb83e4",
+      "size": 293536
+    },
+    "clientmods/Client-bettercrashes-1.4.5-GTNH.jar": {
+      "sha1": "dbb0da4f406a0ba253827ced5a9c2569063dc71f",
+      "size": 41651
+    },
+    "clientmods/Client-betterloadingscreen-1.7.9-GTNH.jar": {
+      "sha1": "7ed3cb4eb21893d0044ad701971cce300ef6baed",
+      "size": 5132906
+    },
+    "clientmods/Client-controlling-2.1.7.jar": {
+      "sha1": "d00159cfa85b80aa28e97792cfa135ee6eec1aa8",
+      "size": 45741
+    },
+    "clientmods/Client-custommainmenu-1.14.1.jar": {
+      "sha1": "db6511d431b13ee5b98441719a24f78711f127b6",
+      "size": 3888775
+    },
+    "clientmods/Client-inventorytweaks-1.6.2.jar": {
+      "sha1": "49e00d582af8b954dd3ef04981b1fc2d5805d1cb",
+      "size": 226928
+    },
+    "clientmods/NotEnoughItems-2.8.119-GTNH.jar": {
+      "sha1": "b49a1b196b75a735fdfba11afce90c3851bbe476",
+      "size": 1606834
+    },
+    "clientmods/modpack.jar": {
+      "sha1": "25fd97f72beca728112256938e03e8105b1b78cc",
+      "size": 3018833
     },
     "config/AWWayofTime.cfg": {
       "sha1": "dfe6f1f5052abcde3d5c90258ccc11159bf304cd",
@@ -1836,46 +1885,6 @@
       "sha1": "4ec6c6a1c0f287e966522bde070a43d72dd1fb34",
       "size": 80286
     },
-    "mods/Client-ArmorStatusHUD.jar": {
-      "sha1": "591212011b20ae3bbac8eec087ca443ba55cd895",
-      "size": 27281
-    },
-    "mods/Client-BetterFps.jar": {
-      "sha1": "5f95cfaac2c48448be48150105e735323b6697a1",
-      "size": 63223
-    },
-    "mods/Client-FpsReducer.jar": {
-      "sha1": "05782dc663eec3a38c920400f96c43e8c8be6dcb",
-      "size": 44091
-    },
-    "mods/Client-MemoryCleaner.jar": {
-      "sha1": "db4d16faaee2becb5101918e9d3f1fd273fd97ec",
-      "size": 14011
-    },
-    "mods/Client-archaicfix-0.8.0.jar": {
-      "sha1": "bc23c0b52560089424d84c1ff4e9ac1d04fb83e4",
-      "size": 293536
-    },
-    "mods/Client-bettercrashes-1.4.5-GTNH.jar": {
-      "sha1": "dbb0da4f406a0ba253827ced5a9c2569063dc71f",
-      "size": 41651
-    },
-    "mods/Client-betterloadingscreen-1.7.9-GTNH.jar": {
-      "sha1": "7ed3cb4eb21893d0044ad701971cce300ef6baed",
-      "size": 5132906
-    },
-    "mods/Client-controlling-2.1.7.jar": {
-      "sha1": "d00159cfa85b80aa28e97792cfa135ee6eec1aa8",
-      "size": 45741
-    },
-    "mods/Client-custommainmenu-1.14.1.jar": {
-      "sha1": "db6511d431b13ee5b98441719a24f78711f127b6",
-      "size": 3888775
-    },
-    "mods/Client-inventorytweaks-1.6.2.jar": {
-      "sha1": "49e00d582af8b954dd3ef04981b1fc2d5805d1cb",
-      "size": 226928
-    },
     "mods/CoFHCore.jar": {
       "sha1": "b7d66be19a6898232f5498a50ac0207109a3b2e6",
       "size": 1230511
@@ -1971,10 +1980,6 @@
     "mods/NoMoreRecipeConflict.jar": {
       "sha1": "fb2936b66646761230d447c7529d8b4429736b9e",
       "size": 16043
-    },
-    "mods/NotEnoughItems-2.8.119-GTNH.jar": {
-      "sha1": "b49a1b196b75a735fdfba11afce90c3851bbe476",
-      "size": 1606834
     },
     "mods/Patcher-DraconicPatcher.jar": {
       "sha1": "7056927adf63fe59c45c135d2be8001e5a3ab370",
@@ -2151,10 +2156,6 @@
     "mods/mobsinfo-0.5.20-GTNH.jar": {
       "sha1": "17bb93598cbb0eec967aed75c199d95db53dd701",
       "size": 437768
-    },
-    "mods/modpack.jar": {
-      "sha1": "25fd97f72beca728112256938e03e8105b1b78cc",
-      "size": 3018833
     },
     "mods/necrotempus-1.4.0-mgz.jar": {
       "sha1": "996f3ce495de7264b6b409b3e3f1d57da1d844af",
