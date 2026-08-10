@@ -89,7 +89,12 @@ def collect_files(pack_dir: Path, out_path: Path | None) -> dict[str, dict]:
     out_resolved = out_path.resolve() if out_path else None
     root = pack_dir
     for dirpath, dirnames, filenames in os.walk(pack_dir):
-        dirnames[:] = sorted(d for d in dirnames if not d.startswith("."))
+        # Arquivos exclusivos do host existem no repositório para o Supervisor
+        # MGZ, mas nunca podem entrar no manifest que o Launcher sincroniza.
+        dirnames[:] = sorted(
+            d for d in dirnames
+            if not d.startswith(".") and d not in {"servermods", "serverconfig"}
+        )
         for name in sorted(filenames):
             full = Path(dirpath) / name
             if out_resolved is not None and full.resolve() == out_resolved:
