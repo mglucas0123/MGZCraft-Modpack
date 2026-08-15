@@ -1,6 +1,6 @@
 {
-  "revision": "a6a19dcc3ee2caf80f6d15b41f9f81c77a7fdf46",
-  "generated_at": "2026-08-15T22:44:31Z",
+  "revision": "ec989f9c123e7e029209a5c455a9cfd97edef85d",
+  "generated_at": "2026-08-15T22:48:29Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1805,9 +1805,9 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.2.4.jar": {
-      "sha1": "b1edf79b4b2073a360ebb1eb6beb88bc57683a9e",
-      "size": 9581076
+    "mods/angelica-2.2.5.jar": {
+      "sha1": "c9aa03670bf4e7f2356c643d6d4b5107efb89aab",
+      "size": 9605056
     },
     "mods/appliedenergistics2-rv3-beta-1033-GTNH.jar": {
       "sha1": "241091edc1ef8fc5a1cdb0e693c99cb2ee1e1cee",
@@ -1849,9 +1849,9 @@
       "sha1": "58980996269d253fd37940b06e018077dd30b893",
       "size": 399809
     },
-    "mods/etfuturum-2.6.53-GTNH.jar": {
-      "sha1": "029e0248b1d7c3413725f310bea5a57fe12d09a5",
-      "size": 5294621
+    "mods/etfuturum-2.6.54-GTNH.jar": {
+      "sha1": "6bb137369a70f0fa392d837b82870d855e9e22c8",
+      "size": 5303208
     },
     "mods/gtnhlib-0.11.37.jar": {
       "sha1": "f5198e9bf4df61610d5327d4b40662bd67a16490",
