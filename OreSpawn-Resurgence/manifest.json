@@ -1,6 +1,6 @@
 {
-  "revision": "7cac9965907f947c41c8f5b63ea2fdc7cd6e19ad",
-  "generated_at": "2026-08-15T01:02:41Z",
+  "revision": "fa63d58c18798c6b8749ed7b11d547fd45abf113",
+  "generated_at": "2026-08-15T02:13:35Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1786,8 +1786,8 @@
       "size": 1674924
     },
     "mods/Vampirism-Resurgence-1.7.10-1.0.0.jar": {
-      "sha1": "1ba22d2f8c32f22ca07119ebcd6ddb7156488a07",
-      "size": 4830460
+      "sha1": "a8be920f7d9f85f69235174f40deff43ed8115e6",
+      "size": 4830206
     },
     "mods/Waila-1.19.30.jar": {
       "sha1": "0f3b4f7cb477a1f49422ee48810c35c89d4cb529",
