@@ -1,6 +1,6 @@
 {
-  "revision": "ca106aa400598dc4b1c55d2dd070c056706dba4b",
-  "generated_at": "2026-08-16T15:07:07Z",
+  "revision": "967c520a4cec7caf12c589d7f71ef39c87d2fc74",
+  "generated_at": "2026-08-18T19:39:48Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1577,9 +1577,9 @@
       "sha1": "163f244ce2945aa05950ce22bb3fd1afb651082c",
       "size": 838921
     },
-    "mods/Avaritiaddons-1.9.4-GTNH.jar": {
-      "sha1": "6d5f529d0154a5fec6c9e26133e51d609f0b32b2",
-      "size": 207158
+    "mods/Avaritiaddons-1.9.5-GTNH.jar": {
+      "sha1": "12d75286a4e0fc61f5c467aae75fb73a2c084d78",
+      "size": 210941
     },
     "mods/BaublesExpanded-2.2.22-GTNH.jar": {
       "sha1": "7f9d5568c85517469f293c1736f8f6e1964a24af",
@@ -1633,9 +1633,9 @@
       "sha1": "d89d75727efd9ea843ab1c22bddf2c808d2cc5c9",
       "size": 17834817
     },
-    "mods/Draconic-Evolution-1.5.32-GTNH.jar": {
-      "sha1": "4e9e1641e73f374c699ea4b6dbeb5149a9ecb4b6",
-      "size": 6755399
+    "mods/Draconic-Evolution-1.5.33-GTNH.jar": {
+      "sha1": "eb998e5e2e3c571955727a2f6b86d8b5c93aab5f",
+      "size": 6755384
     },
     "mods/EnchantingPlus.jar": {
       "sha1": "2b84db09fc8875c2726a4b93d3ed37bc6ba16340",
@@ -1805,13 +1805,13 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.2.5.jar": {
-      "sha1": "c9aa03670bf4e7f2356c643d6d4b5107efb89aab",
-      "size": 9605056
+    "mods/angelica-2.2.7.jar": {
+      "sha1": "38d02980a5126d5106258a5aa192953eb58d5751",
+      "size": 9645286
     },
-    "mods/appliedenergistics2-rv3-beta-1033-GTNH.jar": {
-      "sha1": "241091edc1ef8fc5a1cdb0e693c99cb2ee1e1cee",
-      "size": 4827456
+    "mods/appliedenergistics2-rv3-beta-1034-GTNH.jar": {
+      "sha1": "51a9c1f29635ee4f30eb8dd8078a1724c619a69f",
+      "size": 4828478
     },
     "mods/backpack-2.6.16-GTNH.jar": {
       "sha1": "d5f74d13d23a209b7264d698fb477be35521f24d",
@@ -1829,9 +1829,9 @@
       "sha1": "f93577693219047309f05fb4afbbdc497a05c618",
       "size": 7607474
     },
-    "mods/chromatictooltips-1.0.34-GTNH.jar": {
-      "sha1": "e373166404481c45156177363f4b47797755d55b",
-      "size": 243448
+    "mods/chromatictooltips-1.0.35-GTNH.jar": {
+      "sha1": "e217b0faa836232cf73c9457fe43825c7d01bb26",
+      "size": 243530
     },
     "mods/chromatictooltipscompat-1.0.36-GTNH.jar": {
       "sha1": "4fb23a04497f78f1efc80dada2d2a5a17d5f64a0",
@@ -1853,13 +1853,13 @@
       "sha1": "6bb137369a70f0fa392d837b82870d855e9e22c8",
       "size": 5303208
     },
-    "mods/gtnhlib-0.11.37.jar": {
-      "sha1": "f5198e9bf4df61610d5327d4b40662bd67a16490",
-      "size": 1384832
+    "mods/gtnhlib-0.11.40.jar": {
+      "sha1": "3cfb3740f9e04f1cc7d8c0072d96a9b04d4908ae",
+      "size": 1393656
     },
-    "mods/hodgepodge-2.7.188.jar": {
-      "sha1": "b75b69c399256c3de45564542063472112f19432",
-      "size": 1120047
+    "mods/hodgepodge-2.7.189.jar": {
+      "sha1": "a337f1f311e28e16b671c002263377c47946057d",
+      "size": 1121453
     },
     "mods/industrialcraft-2-2.2.828-experimental.jar": {
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
