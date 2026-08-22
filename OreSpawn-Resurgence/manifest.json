@@ -1,6 +1,6 @@
 {
-  "revision": "e9cf27a41f36a39fb57ef49ce75036b6c726d7b9",
-  "generated_at": "2026-08-21T23:13:03Z",
+  "revision": "98860971d0a1ca36907893a09071611241f10692",
+  "generated_at": "2026-08-22T15:13:03Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1677,6 +1677,10 @@
       "sha1": "05bf78a8ae9f71d8ae82ed7fc1850872f47a2035",
       "size": 122339
     },
+    "mods/MGZClans-1.0.0.jar": {
+      "sha1": "3b723f680fe3f78b35683c243cbaaef8e60a91e1",
+      "size": 87386
+    },
     "mods/MGZCore-1.0.2.jar": {
       "sha1": "b36c0ea8de5e3c7708ebea917003bbee8a7fb93a",
       "size": 178368
@@ -1809,9 +1813,9 @@
       "sha1": "0101cfd0b161589f4cab3a2cb475ba150e745001",
       "size": 9759163
     },
-    "mods/appliedenergistics2-rv3-beta-1037-GTNH.jar": {
-      "sha1": "74c230adbef94dc4728ef949278098961eaecfa4",
-      "size": 4829831
+    "mods/appliedenergistics2-rv3-beta-1038-GTNH.jar": {
+      "sha1": "ada5b9909f7469a8e829dc4e5d4275d785c01462",
+      "size": 4834665
     },
     "mods/backpack-2.6.16-GTNH.jar": {
       "sha1": "d5f74d13d23a209b7264d698fb477be35521f24d",
@@ -1853,9 +1857,9 @@
       "sha1": "7fb1aefd631917042f429157d82ae69156167f8e",
       "size": 5303651
     },
-    "mods/gtnhlib-0.11.42.jar": {
-      "sha1": "eea8f9299cbbe7e278e8afd6b51740b0206f952f",
-      "size": 1393658
+    "mods/gtnhlib-0.11.43.jar": {
+      "sha1": "ab191c8e035f2ef50c7456d9195f41004aaa883d",
+      "size": 1394001
     },
     "mods/hodgepodge-2.7.190.jar": {
       "sha1": "5e298e2e8b963b4905cf80c6b4e033d2b505a3a4",
