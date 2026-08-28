@@ -1,6 +1,6 @@
 {
-  "revision": "cc4cf1059a55b46b429899fbe1807f1f09173058",
-  "generated_at": "2026-08-28T20:11:49Z",
+  "revision": "8ef12caf8f0c6b1127c55d46b5dd36a8cbce38cc",
+  "generated_at": "2026-08-28T21:44:18Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1597,9 +1597,9 @@
       "sha1": "b0d13f227f0fe0ec1be8b401d916831fc533048d",
       "size": 5755198
     },
-    "mods/Botania-1.13.33-GTNH.jar": {
-      "sha1": "2ca86a21576a1e3d9e65a8f60173496eafd4c5c6",
-      "size": 16905428
+    "mods/Botania-1.13.34-GTNH.jar": {
+      "sha1": "673e932475554b2ee42b36edd5f389d66e0eae43",
+      "size": 16905449
     },
     "mods/BrandonsCore-1.2.1-GTNH.jar": {
       "sha1": "4ec6c6a1c0f287e966522bde070a43d72dd1fb34",
@@ -1717,9 +1717,9 @@
       "sha1": "fb2936b66646761230d447c7529d8b4429736b9e",
       "size": 16043
     },
-    "mods/NotEnoughItems-2.8.126-GTNH.jar": {
-      "sha1": "e1b7fbb0eeb4f269671cde04009e2e528386c346",
-      "size": 1609789
+    "mods/NotEnoughItems-2.8.128-GTNH.jar": {
+      "sha1": "9a1d14f512a58a1e173d260efcfb3af76278ff90",
+      "size": 1612757
     },
     "mods/Patcher-DraconicPatcher.jar": {
       "sha1": "7056927adf63fe59c45c135d2be8001e5a3ab370",
@@ -1821,13 +1821,13 @@
       "sha1": "0101cfd0b161589f4cab3a2cb475ba150e745001",
       "size": 9759163
     },
-    "mods/appliedenergistics2-rv3-beta-1040-GTNH.jar": {
-      "sha1": "d46d7eda85f3e5dba9f9d131080570b868115fa0",
-      "size": 4845041
+    "mods/appliedenergistics2-rv3-beta-1044-GTNH.jar": {
+      "sha1": "2de5d866558c7c9da2a496823c7d08ed58b9826d",
+      "size": 4848270
     },
-    "mods/backpack-2.6.16-GTNH.jar": {
-      "sha1": "d5f74d13d23a209b7264d698fb477be35521f24d",
-      "size": 290504
+    "mods/backpack-2.6.17-GTNH.jar": {
+      "sha1": "8bc08a48b6b22dd6cb979da4763cffb7a3f228e7",
+      "size": 291024
     },
     "mods/bdlib-1.11.0-GTNH.jar": {
       "sha1": "cb33b381109b16dfb22707b1256ba3cf31979606",
@@ -1861,9 +1861,9 @@
       "sha1": "58980996269d253fd37940b06e018077dd30b893",
       "size": 399809
     },
-    "mods/etfuturum-2.6.56-GTNH.jar": {
-      "sha1": "52db56bb0ea300c95d6f4cffb5087d72d77f6387",
-      "size": 5305730
+    "mods/etfuturum-2.6.57-GTNH.jar": {
+      "sha1": "1d43ac25fcc93c71f82702bcd990ab8423eca940",
+      "size": 5350312
     },
     "mods/gtnhlib-0.11.43.jar": {
       "sha1": "ab191c8e035f2ef50c7456d9195f41004aaa883d",
@@ -1961,12 +1961,12 @@
       "sha1": "9e1228273427512d64d03105cefec341aaa1044f",
       "size": 8467856
     },
-    "resourcepacks/Modernity-GTNH-2026-08-17.zip": {
-      "sha1": "7dcbb02612bcecf73662502363aa1f5634965025",
+    "resourcepacks/Modernity-GTNH-2026-08-24.zip": {
+      "sha1": "c2af7e4437163ca5f502e5ea1c45866b96886ed0",
       "size": 55474951
     },
-    "resourcepacks/Modernity-GTNH-UI-2026-08-17.zip": {
-      "sha1": "03bc09a62a6900875f093f8cad8de76e6adeb308",
+    "resourcepacks/Modernity-GTNH-UI-2026-08-24.zip": {
+      "sha1": "bf54c1d8c2dbea2e9e10e57bb57d96892ad6bd8d",
       "size": 14081485
     },
     "shaderspacks/ComplementaryShaders_v4.7.1.zip": {
