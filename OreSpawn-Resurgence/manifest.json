@@ -1,6 +1,6 @@
 {
-  "revision": "c938bea76ca12b92b91863e5fef3f944baf24d61",
-  "generated_at": "2026-08-28T11:08:41Z",
+  "revision": "8db11cd15375251fbeeaaf8d27de7e88c0ca5cb4",
+  "generated_at": "2026-08-28T13:11:32Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1677,25 +1677,25 @@
       "sha1": "05bf78a8ae9f71d8ae82ed7fc1850872f47a2035",
       "size": 122339
     },
-    "mods/MGZClans-1.2.0.jar": {
-      "sha1": "9c284ec7c92e0a17b45219fa566546e0975ef22e",
-      "size": 159807
+    "mods/MGZClans-1.2.1.jar": {
+      "sha1": "fc55cc68767ee7041e7e19a3599248f156c80e4c",
+      "size": 160618
     },
     "mods/MGZCore-1.0.3.jar": {
       "sha1": "6c71cc60a5361d4e2ab71c3fe90179fbdfb60811",
       "size": 180519
     },
-    "mods/MGZHolograms-3.0.0.jar": {
-      "sha1": "6a815aa0bffd71cd296399beb92ee88a2471f006",
-      "size": 164567
+    "mods/MGZHolograms-3.1.0.jar": {
+      "sha1": "11acdb885f0b3dbb9a11f1654fd99cbc50f6027d",
+      "size": 167750
     },
     "mods/MGZQuest-1.0.3.jar": {
       "sha1": "103be3bb93c9fcbf75302219881422e7a407f585",
       "size": 368736
     },
-    "mods/MGZUIEditor-3.2.2.jar": {
-      "sha1": "fb4bb096608e5907dd7b4e4fc22ddd5743ff7ee9",
-      "size": 153120
+    "mods/MGZUIEditor-3.2.3.jar": {
+      "sha1": "2d2115d0d207fd07cdf6f230def18cd5f8c119cc",
+      "size": 156334
     },
     "mods/Mekanism-Community-Edition-1.7.10-9.10.48-ALL.jar": {
       "sha1": "35b10eeb1a63e11a61c276722b593826ccfdc1f0",
