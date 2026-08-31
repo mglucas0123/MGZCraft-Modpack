@@ -1,6 +1,6 @@
 {
-  "revision": "c862282fdd4d00fa8cd432285eb5e73b2451e284",
-  "generated_at": "2026-08-31T01:18:02Z",
+  "revision": "103434e960ea736291a67e42d94bd1a7d60b189e",
+  "generated_at": "2026-08-31T01:28:51Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1881,9 +1881,9 @@
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
       "size": 5633947
     },
-    "mods/journeymap-1.7.10-8fb7de4-fairplay.jar": {
-      "sha1": "0c956d83e47f0f09998b2834f28380833068682b",
-      "size": 8865960
+    "mods/journeymap-1.7.10-47df4dd-unlimited.jar": {
+      "sha1": "9e542c676caa3567829d24fbc9d56cca3834077b",
+      "size": 8955362
     },
     "mods/legiblenei_1.7.10-1.6.7.6.jar": {
       "sha1": "b79cf3f6d23d3ce012f22dcef9d3c4275b937c00",
