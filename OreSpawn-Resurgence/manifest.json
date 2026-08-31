@@ -1,6 +1,6 @@
 {
-  "revision": "ff7b025c2bffee0da0aeef606c07d36304b01175",
-  "generated_at": "2026-08-31T01:17:51Z",
+  "revision": "c862282fdd4d00fa8cd432285eb5e73b2451e284",
+  "generated_at": "2026-08-31T01:18:02Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1900,6 +1900,10 @@
     "mods/mobsinfo-0.5.20-GTNH.jar": {
       "sha1": "17bb93598cbb0eec967aed75c199d95db53dd701",
       "size": 437768
+    },
+    "mods/navigator-1.1.9.jar": {
+      "sha1": "cd6084cfa0a5d860b18f566dfaebea9addb66a64",
+      "size": 153840
     },
     "mods/necrotempus-1.4.0-mgz.jar": {
       "sha1": "996f3ce495de7264b6b409b3e3f1d57da1d844af",
