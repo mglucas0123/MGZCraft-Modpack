@@ -1,6 +1,6 @@
 {
-  "revision": "786b3aef230a737887eec5500646b8b88c2127c1",
-  "generated_at": "2026-09-11T22:16:20Z",
+  "revision": "4fffbba3777628112d0be164da542159ce95d45b",
+  "generated_at": "2026-09-11T22:31:41Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1581,9 +1581,9 @@
       "sha1": "bd319450a56248c304806a62d68462109db0ec23",
       "size": 211387
     },
-    "mods/BaublesExpanded-2.2.22-GTNH.jar": {
-      "sha1": "7f9d5568c85517469f293c1736f8f6e1964a24af",
-      "size": 114786
+    "mods/BaublesExpanded-2.2.23-GTNH.jar": {
+      "sha1": "58890316f37ff0d1e8e0dc3e8ece1bdfa8046c0d",
+      "size": 115185
     },
     "mods/BetterFurnaces-Reforged-1.0.0.jar": {
       "sha1": "1b50bb8a4333430ca6c9b1f68262dd7c6116a2eb",
@@ -1597,9 +1597,9 @@
       "sha1": "b0d13f227f0fe0ec1be8b401d916831fc533048d",
       "size": 5755198
     },
-    "mods/Botania-1.13.34-GTNH.jar": {
-      "sha1": "673e932475554b2ee42b36edd5f389d66e0eae43",
-      "size": 16905449
+    "mods/Botania-1.13.36-GTNH.jar": {
+      "sha1": "27eb3e2d7cbd66acf53d876e5c310de609376162",
+      "size": 16905682
     },
     "mods/BrandonsCore-1.2.1-GTNH.jar": {
       "sha1": "4ec6c6a1c0f287e966522bde070a43d72dd1fb34",
@@ -1717,9 +1717,9 @@
       "sha1": "fb2936b66646761230d447c7529d8b4429736b9e",
       "size": 16043
     },
-    "mods/NotEnoughItems-2.8.130-GTNH.jar": {
-      "sha1": "9c70896c342f24b8a5b301906864ab640a8ac333",
-      "size": 1613362
+    "mods/NotEnoughItems-2.8.137-GTNH.jar": {
+      "sha1": "ea520c4131feda77b19c61106b9855fb33e8dcaf",
+      "size": 1716349
     },
     "mods/Patcher-DraconicPatcher.jar": {
       "sha1": "7056927adf63fe59c45c135d2be8001e5a3ab370",
@@ -1817,13 +1817,13 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.2.9.jar": {
-      "sha1": "d718618c8f81aaba1464432f64bb99896f9195b6",
-      "size": 9795441
+    "mods/angelica-2.2.13.jar": {
+      "sha1": "45c8191ae798d67a6400d5e851b6906954b375ca",
+      "size": 10296580
     },
-    "mods/appliedenergistics2-rv3-beta-1047-GTNH.jar": {
-      "sha1": "86933d28deffb7d66f3b3a644fe908143788cfbb",
-      "size": 4854561
+    "mods/appliedenergistics2-rv3-beta-1057-GTNH.jar": {
+      "sha1": "f0002ea8223ec450aefee2dce54935eb0e198e87",
+      "size": 4934977
     },
     "mods/backpack-2.6.17-GTNH.jar": {
       "sha1": "8bc08a48b6b22dd6cb979da4763cffb7a3f228e7",
@@ -1837,21 +1837,21 @@
       "sha1": "d53f5dd2572547c7000dba8a08847d09eacba9f9",
       "size": 138968
     },
-    "mods/chisel-2.17.32-GTNH.jar": {
-      "sha1": "f93577693219047309f05fb4afbbdc497a05c618",
-      "size": 7607474
+    "mods/chisel-2.17.33-GTNH.jar": {
+      "sha1": "3bc1f8ebfd9b642c056558be90d3a0245b04206e",
+      "size": 7607744
     },
-    "mods/chromatictooltips-1.0.35-GTNH.jar": {
-      "sha1": "e217b0faa836232cf73c9457fe43825c7d01bb26",
-      "size": 243530
+    "mods/chromatictooltips-1.0.36-GTNH.jar": {
+      "sha1": "4ed306f703bdb8d8563bf65f9c76977348d32cb5",
+      "size": 243433
     },
-    "mods/chromatictooltipscompat-1.0.36-GTNH.jar": {
-      "sha1": "4fb23a04497f78f1efc80dada2d2a5a17d5f64a0",
-      "size": 137202
+    "mods/chromatictooltipscompat-1.0.38-GTNH.jar": {
+      "sha1": "d0de5fb6dfd0990848cf27e7203450b74c9c80bc",
+      "size": 136734
     },
-    "mods/cosmeticarmorreworked-1.0.6-GTNH.jar": {
-      "sha1": "276848d10777e7d005e64b42dbad65fcbd187831",
-      "size": 43189
+    "mods/cosmeticarmorreworked-1.0.7-GTNH.jar": {
+      "sha1": "bbf63f96491c617814073b106edd42beb959094b",
+      "size": 43218
     },
     "mods/endercore-0.5.15.jar": {
       "sha1": "89ced5fdefeb4a36bb54117404cee5bc7789ae19",
@@ -1865,13 +1865,13 @@
       "sha1": "0e51681763b501fa22b6d12586720c35e5bcf42d",
       "size": 5350760
     },
-    "mods/gtnhlib-0.11.44.jar": {
-      "sha1": "83dfe995732abfd07398679856ddf48e04311811",
-      "size": 1394241
+    "mods/gtnhlib-0.11.48.jar": {
+      "sha1": "0f270ef6e5eec634795087337e71a9893f2819fe",
+      "size": 1424495
     },
-    "mods/hodgepodge-2.7.195.jar": {
-      "sha1": "45b729d661a5198637cc51f0f81ec4b204957a22",
-      "size": 1129419
+    "mods/hodgepodge-2.7.203.jar": {
+      "sha1": "e91c1a4dda225eadf4dee5f870acd38b9d822323",
+      "size": 1178303
     },
     "mods/industrialcraft-2-2.2.828-experimental.jar": {
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
@@ -1965,12 +1965,12 @@
       "sha1": "9e1228273427512d64d03105cefec341aaa1044f",
       "size": 8467856
     },
-    "resourcepacks/Modernity-GTNH-2026-08-31.zip": {
-      "sha1": "27d5975a4777d75e7e32ee278e75399975f490fe",
+    "resourcepacks/Modernity-GTNH-2026-09-07.zip": {
+      "sha1": "232151f7fdc1ba42f0406c9f46a6ad1f80b1951f",
       "size": 55474951
     },
-    "resourcepacks/Modernity-GTNH-UI-2026-08-31.zip": {
-      "sha1": "6a2b199c32a1f77aba264009bae26de952ef9976",
+    "resourcepacks/Modernity-GTNH-UI-2026-09-07.zip": {
+      "sha1": "7212880596b78f9e48939d93054e043882b61a76",
       "size": 14081485
     },
     "shaderspacks/ComplementaryShaders_v4.7.1.zip": {
