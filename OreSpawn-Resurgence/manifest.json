@@ -1,6 +1,6 @@
 {
-  "revision": "25b22f9f29482f6e4391cacb95d48d6b63726be0",
-  "generated_at": "2026-09-11T15:39:19Z",
+  "revision": "e8324a5a313cd4b3a844d52b8b22697fbcef5a39",
+  "generated_at": "2026-09-11T15:58:12Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1689,9 +1689,9 @@
       "sha1": "6c31122206ba2daa9cf31dcfb7d4d71c07113592",
       "size": 3295681
     },
-    "mods/MGZRpg-1.7.1.jar": {
-      "sha1": "42a8cdc6bc6507c6c18b54ac8a928a61f15dcc71",
-      "size": 2300432
+    "mods/MGZRpg-1.7.2.jar": {
+      "sha1": "000ac5ebcdb9d754c02899b059e1d8571e6a8a0b",
+      "size": 2300499
     },
     "mods/MGZUILibrary-4.3.0.jar": {
       "sha1": "313927cb6152c990bb7de3311d02f3e3b09fe58d",
@@ -1917,9 +1917,9 @@
       "sha1": "fc52896812d315b084212ae308f2427741ace74a",
       "size": 166622
     },
-    "mods/orespawn-3.0.1.jar": {
-      "sha1": "ebda9a86d022e88bf9e51776f147c01e8d45f125",
-      "size": 18251724
+    "mods/orespawn-3.0.0-main.5+ed178808bd-dirty.jar": {
+      "sha1": "1cfc6c3062608db08871654f9541c7a52402b039",
+      "size": 18700804
     },
     "mods/overloadedarmorbar-1.1.1.jar": {
       "sha1": "8c1f460dae967ed0c42744d5e58d74c9edc95c77",
