@@ -1,6 +1,6 @@
 {
-  "revision": "985f626576e9900274df04eaaba2716c3ae91a4f",
-  "generated_at": "2026-09-16T02:16:03Z",
+  "revision": "14cb8e3a90c28e190dc7ff3f83b04ef96d4f64ff",
+  "generated_at": "2026-09-16T02:22:51Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1922,8 +1922,8 @@
       "size": 166622
     },
     "mods/orespawn-3.0.0-main.5+ed178808bd-dirty.jar": {
-      "sha1": "20925564592da2a9e3273ab9f324b9bb163d8452",
-      "size": 18806128
+      "sha1": "cabebe5a619c74ec9a17a414e7011aa4a101d6bc",
+      "size": 18806517
     },
     "mods/overloadedarmorbar-1.1.1.jar": {
       "sha1": "8c1f460dae967ed0c42744d5e58d74c9edc95c77",
