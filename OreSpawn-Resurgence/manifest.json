@@ -1,6 +1,6 @@
 {
-  "revision": "6bfee18008123ae2ca96f07310bb279fd8c89876",
-  "generated_at": "2026-09-17T01:40:15Z",
+  "revision": "74a0fdd5284ea974c358cd20c0d3ce04058d520d",
+  "generated_at": "2026-09-17T03:12:45Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1629,9 +1629,9 @@
       "sha1": "d89d75727efd9ea843ab1c22bddf2c808d2cc5c9",
       "size": 17834817
     },
-    "mods/Draconic-Evolution-1.5.33-GTNH.jar": {
-      "sha1": "eb998e5e2e3c571955727a2f6b86d8b5c93aab5f",
-      "size": 6755384
+    "mods/Draconic-Evolution-1.5.33-GTNH-MFRDupeFix.jar": {
+      "sha1": "1f9f39e8f8993a7d77e36728de9228459cfcb2de",
+      "size": 6755394
     },
     "mods/EnchantingPlus.jar": {
       "sha1": "2b84db09fc8875c2726a4b93d3ed37bc6ba16340",
@@ -1661,9 +1661,9 @@
       "sha1": "1043a100d0795215962f0112a1f194f5df383edb",
       "size": 403816
     },
-    "mods/IndustrialUpgrade-2.5.21.jar": {
-      "sha1": "62b11fd73cef1c2bdd4760707c67610a7f91bd3a",
-      "size": 6824931
+    "mods/IndustrialUpgrade-2.5.22.jar": {
+      "sha1": "27ea606dafa9e38fdbbd1453ce3b00929472b28c",
+      "size": 6825614
     },
     "mods/IronChest-6.1.13.jar": {
       "sha1": "6ecde95b3dc3c2f73213980686b136cd09b999e8",
@@ -1925,9 +1925,9 @@
       "sha1": "fc52896812d315b084212ae308f2427741ace74a",
       "size": 166622
     },
-    "mods/orespawn-3.0.0-main.5+ed178808bd-dirty.jar": {
-      "sha1": "cabebe5a619c74ec9a17a414e7011aa4a101d6bc",
-      "size": 18806517
+    "mods/orespawn-3.1.0.jar": {
+      "sha1": "edd10766d47449bcd57f2bbb6ddf88539e17c1ac",
+      "size": 18806374
     },
     "mods/overloadedarmorbar-1.1.1.jar": {
       "sha1": "8c1f460dae967ed0c42744d5e58d74c9edc95c77",
