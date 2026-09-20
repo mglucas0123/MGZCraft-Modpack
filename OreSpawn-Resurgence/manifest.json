@@ -1,6 +1,6 @@
 {
-  "revision": "b0db6de846ad1ecde060cf4de88a451289bdc86f",
-  "generated_at": "2026-09-20T22:50:15Z",
+  "revision": "a6d654f2e032fad78aae05b209ec485eacff19b3",
+  "generated_at": "2026-09-20T23:20:32Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1541,9 +1541,9 @@
       "sha1": "c883155282471cddb35d91d9f75881a372d6ba4f",
       "size": 690
     },
-    "mods/+unimixins-all-1.7.10-0.3.1.jar": {
-      "sha1": "75f9251b1ac4eeacdce0b86a1a68bd8ff4fbf604",
-      "size": 5519796
+    "mods/+unimixins-all-1.7.10-0.3.2.jar": {
+      "sha1": "caae4993fec61965d39a214c7ef9c709a58b5c9d",
+      "size": 5520080
     },
     "mods/1.7.10_AM2-1.4.0.009.jar": {
       "sha1": "2d32666287cc0b565822f04421fc9e9c27b9afd4",
@@ -1581,9 +1581,9 @@
       "sha1": "bd319450a56248c304806a62d68462109db0ec23",
       "size": 211387
     },
-    "mods/BaublesExpanded-2.2.23-GTNH.jar": {
-      "sha1": "58890316f37ff0d1e8e0dc3e8ece1bdfa8046c0d",
-      "size": 115185
+    "mods/BaublesExpanded-2.2.24-GTNH.jar": {
+      "sha1": "1c487f6843ae36c474c10fa5d712447bbc2b7965",
+      "size": 115184
     },
     "mods/BetterFurnaces-Reforged-1.0.0.jar": {
       "sha1": "1b50bb8a4333430ca6c9b1f68262dd7c6116a2eb",
@@ -1609,9 +1609,9 @@
       "sha1": "b7d66be19a6898232f5498a50ac0207109a3b2e6",
       "size": 1230511
     },
-    "mods/CodeChickenCore-1.4.20.jar": {
-      "sha1": "e86847ca6bfa3599d1965548df3a2f7a484816b8",
-      "size": 453332
+    "mods/CodeChickenCore-1.4.22.jar": {
+      "sha1": "f4b6d5e12fdd25552e3d79b86c44f4ccccab235b",
+      "size": 453567
     },
     "mods/ConsoleClear.jar": {
       "sha1": "dc602517579ba310adeeb9ea70d5c44f86b04c4d",
@@ -1628,10 +1628,6 @@
     "mods/CustomNPC-Plus-1.11.1.jar": {
       "sha1": "d89d75727efd9ea843ab1c22bddf2c808d2cc5c9",
       "size": 17834817
-    },
-    "mods/Draconic-Evolution-1.5.33-GTNH-MFRDupeFix.jar": {
-      "sha1": "1f9f39e8f8993a7d77e36728de9228459cfcb2de",
-      "size": 6755394
     },
     "mods/EnchantingPlus.jar": {
       "sha1": "2b84db09fc8875c2726a4b93d3ed37bc6ba16340",
@@ -1725,9 +1721,9 @@
       "sha1": "aaba9fdcc88542f52809ec0ed4b7fbf5f5556865",
       "size": 295476
     },
-    "mods/NotEnoughItems-2.8.141-GTNH.jar": {
-      "sha1": "9303de92d79e129eb2327ff88df1132a48b3315d",
-      "size": 1722754
+    "mods/NotEnoughItems-2.8.144-GTNH.jar": {
+      "sha1": "6b87be01ec27b7fe45611bb71fdeb2a1e8898485",
+      "size": 1722761
     },
     "mods/Patcher-DraconicPatcher.jar": {
       "sha1": "7056927adf63fe59c45c135d2be8001e5a3ab370",
@@ -1745,9 +1741,9 @@
       "sha1": "53bd00d5ae1df2cb8fc96d57108bf1c9f8dcd46d",
       "size": 17314
     },
-    "mods/ServerUtilities-2.4.12-mgz.9.jar": {
-      "sha1": "c0cfbdf13e049b54880481f52873fc58f0cdbc9c",
-      "size": 2055659
+    "mods/ServerUtilities-2.4.12-mgz.12.jar": {
+      "sha1": "adf0eb687888c126c36a46c2f5794a80cd141c79",
+      "size": 2058847
     },
     "mods/Tainted-Magic-7.7.8-GTNH.jar": {
       "sha1": "095af987023c1f5abef935a93768bfcdf461d867",
@@ -1825,13 +1821,13 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.2.15.jar": {
-      "sha1": "bf52c6d2bb5da9455ddb83bb3c6913a0eda99036",
-      "size": 10600158
+    "mods/angelica-2.2.16.jar": {
+      "sha1": "06ab8fcb3b07f01a2853b21913d20672b2578767",
+      "size": 10651505
     },
-    "mods/appliedenergistics2-rv3-beta-1065-GTNH.jar": {
-      "sha1": "7c8856b38f462ff3a25444f57ea4a26ba4af55e3",
-      "size": 4981763
+    "mods/appliedenergistics2-rv3-beta-1070-GTNH.jar": {
+      "sha1": "f66f902e14260670def0a689baf3e16487a87927",
+      "size": 5007229
     },
     "mods/backpack-2.6.17-GTNH.jar": {
       "sha1": "8bc08a48b6b22dd6cb979da4763cffb7a3f228e7",
@@ -1873,13 +1869,13 @@
       "sha1": "c3b5b0eb52c922301661d0683150d50d75979765",
       "size": 5357674
     },
-    "mods/gtnhlib-0.11.48.jar": {
-      "sha1": "0f270ef6e5eec634795087337e71a9893f2819fe",
-      "size": 1424495
+    "mods/gtnhlib-0.11.51.jar": {
+      "sha1": "5e9562f26a088661b8b3d35891623ba096027e03",
+      "size": 1430358
     },
-    "mods/hodgepodge-2.7.207.jar": {
-      "sha1": "303277f138877d883661862e1f2811e6cd7aa10f",
-      "size": 1191950
+    "mods/hodgepodge-2.7.210.jar": {
+      "sha1": "81431bdedfa7edee31cc1e179ac623f2290deaa3",
+      "size": 1200582
     },
     "mods/industrialcraft-2-2.2.828-experimental.jar": {
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
