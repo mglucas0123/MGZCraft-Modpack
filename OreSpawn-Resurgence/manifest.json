@@ -1,6 +1,6 @@
 {
-  "revision": "3400fc86556265c581a18ee4b3cf85f4b70b0ce8",
-  "generated_at": "2026-09-20T23:32:41Z",
+  "revision": "b97b8fcc9355c617624850cbbdae5ca4cb330878",
+  "generated_at": "2026-09-20T23:33:16Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1629,6 +1629,10 @@
       "sha1": "d89d75727efd9ea843ab1c22bddf2c808d2cc5c9",
       "size": 17834817
     },
+    "mods/Draconic-Evolution-1.5.33-GTNH-MFRDupeFix.jar": {
+      "sha1": "1f9f39e8f8993a7d77e36728de9228459cfcb2de",
+      "size": 6755394
+    },
     "mods/EnchantingPlus.jar": {
       "sha1": "2b84db09fc8875c2726a4b93d3ed37bc6ba16340",
       "size": 102858
@@ -1740,6 +1744,10 @@
     "mods/Patcher-ParallelMipMap.jar": {
       "sha1": "53bd00d5ae1df2cb8fc96d57108bf1c9f8dcd46d",
       "size": 17314
+    },
+    "mods/ServerUtilities-2.4.12-mgz.12.jar": {
+      "sha1": "adf0eb687888c126c36a46c2f5794a80cd141c79",
+      "size": 2058847
     },
     "mods/Tainted-Magic-7.7.8-GTNH.jar": {
       "sha1": "095af987023c1f5abef935a93768bfcdf461d867",
