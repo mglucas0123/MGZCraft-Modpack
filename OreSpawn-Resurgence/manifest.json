@@ -1,6 +1,6 @@
 {
-  "revision": "a6e41b3ea5222bf1ec9bd260838128d61265284f",
-  "generated_at": "2026-09-20T22:05:45Z",
+  "revision": "e0c872a289e1dbf4c649f9f2430b26984c4bd420",
+  "generated_at": "2026-09-20T22:19:09Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1745,9 +1745,9 @@
       "sha1": "53bd00d5ae1df2cb8fc96d57108bf1c9f8dcd46d",
       "size": 17314
     },
-    "mods/ServerUtilities-2.4.12-mgz.4.jar": {
-      "sha1": "813eb6a9d2d8747c04ec7a3bc5db77e4f2eea9aa",
-      "size": 2046888
+    "mods/ServerUtilities-2.4.12-mgz.7.jar": {
+      "sha1": "5fad71d839ce26ee4c96b95e4e5d95ccee9860c3",
+      "size": 2052909
     },
     "mods/Tainted-Magic-7.7.8-GTNH.jar": {
       "sha1": "095af987023c1f5abef935a93768bfcdf461d867",
