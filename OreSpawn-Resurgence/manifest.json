@@ -1,6 +1,6 @@
 {
-  "revision": "a190c8ccd96ff1d4cee1725ce1e3a4e5146665af",
-  "generated_at": "2026-09-21T01:06:31Z",
+  "revision": "27a984ae30609d4548e792f6f53a0afec3f522b5",
+  "generated_at": "2026-09-21T01:11:44Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1681,9 +1681,9 @@
       "sha1": "06426b226621ec709befbfcf97598f3d9a8c0d4e",
       "size": 204266
     },
-    "mods/MGZGuard-1.7.4.jar": {
-      "sha1": "d2c9feb9a9d6b7bf0457369021172802e7e54258",
-      "size": 1716773
+    "mods/MGZGuard-1.7.6.jar": {
+      "sha1": "d9d51ad75329a22494c2b2d58c52d68de4da9bef",
+      "size": 1725749
     },
     "mods/MGZHolograms-3.6.0.jar": {
       "sha1": "8ec3dec1785ac414b0f86ce666003e75f64f2f25",
