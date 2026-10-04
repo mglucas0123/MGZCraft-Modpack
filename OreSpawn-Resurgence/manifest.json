@@ -1,6 +1,6 @@
 {
-  "revision": "342362baed4e15bde18f5a54c84316a246252a40",
-  "generated_at": "2026-09-28T00:16:50Z",
+  "revision": "2ef9e79e4c781946edfd15fe586a05330947e676",
+  "generated_at": "2026-10-04T03:07:03Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1693,9 +1693,9 @@
       "sha1": "6c31122206ba2daa9cf31dcfb7d4d71c07113592",
       "size": 3295681
     },
-    "mods/MGZRpg-1.7.53.jar": {
-      "sha1": "02a0fff68a2b339dcb229f14fe1632d461fbfae4",
-      "size": 2390188
+    "mods/MGZRpg-1.7.83.jar": {
+      "sha1": "8b34913fbffde80e58e38c693dc9875ea2f387aa",
+      "size": 2797849
     },
     "mods/MGZUILibrary-4.3.0.jar": {
       "sha1": "313927cb6152c990bb7de3311d02f3e3b09fe58d",
@@ -1725,9 +1725,9 @@
       "sha1": "aaba9fdcc88542f52809ec0ed4b7fbf5f5556865",
       "size": 295476
     },
-    "mods/NotEnoughItems-2.8.151-GTNH.jar": {
-      "sha1": "8e7e836e9f1351f91d683e25423aa601c40cb034",
-      "size": 1759367
+    "mods/NotEnoughItems-2.8.155-GTNH.jar": {
+      "sha1": "ca8bc4c7fa9ccc5767be46282209d110a9d3da1c",
+      "size": 1769728
     },
     "mods/Patcher-DraconicPatcher.jar": {
       "sha1": "7056927adf63fe59c45c135d2be8001e5a3ab370",
@@ -1769,9 +1769,9 @@
       "sha1": "6ab7b6d91abb080b44249df7809c3faf6ad395b2",
       "size": 24005
     },
-    "mods/Thaumic-Exploration-1.5.28-GTNH.jar": {
-      "sha1": "d63702c58508ae14a30df9c3ed66a974717e9b32",
-      "size": 1818360
+    "mods/Thaumic-Exploration-1.5.29-GTNH.jar": {
+      "sha1": "4b64f69ef68e89b7aa540d939292e029d50cba62",
+      "size": 1816987
     },
     "mods/ThaumicTinkerer-2.12.24.jar": {
       "sha1": "a124ae95f39f8e0ca49900754133a8f0c7f74490",
@@ -1825,17 +1825,17 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.2.21.jar": {
-      "sha1": "5e4a51cca918bb5bd9326d8cb6c400b1e90bc5f9",
-      "size": 10809145
+    "mods/angelica-2.2.27.jar": {
+      "sha1": "4236acb348eb1b039b0ce9f13e00d2c5e9da643f",
+      "size": 11620284
     },
-    "mods/appliedenergistics2-rv3-beta-1074-GTNH.jar": {
-      "sha1": "0896940772ef80738ac3795232d1e2e574b43f8c",
-      "size": 5027240
+    "mods/appliedenergistics2-rv3-beta-1079-GTNH.jar": {
+      "sha1": "be17b8a49aefe5d5c69a0120a98dbde53773caf6",
+      "size": 5048068
     },
-    "mods/backpack-2.6.17-GTNH.jar": {
-      "sha1": "8bc08a48b6b22dd6cb979da4763cffb7a3f228e7",
-      "size": 291024
+    "mods/backpack-2.6.18-GTNH.jar": {
+      "sha1": "8e33ce361f80aad53f0eefd35d2dc14e431fe4f6",
+      "size": 292086
     },
     "mods/bdlib-1.11.0-GTNH.jar": {
       "sha1": "cb33b381109b16dfb22707b1256ba3cf31979606",
@@ -1873,13 +1873,13 @@
       "sha1": "c3b5b0eb52c922301661d0683150d50d75979765",
       "size": 5357674
     },
-    "mods/gtnhlib-0.11.51.jar": {
-      "sha1": "5e9562f26a088661b8b3d35891623ba096027e03",
-      "size": 1430358
+    "mods/gtnhlib-0.11.52.jar": {
+      "sha1": "3ed7c81534e83b66d3e5e4ad3f845faa26897c07",
+      "size": 1430488
     },
-    "mods/hodgepodge-2.7.212.jar": {
-      "sha1": "1304860aa26b646a87456685b9d3dfb0159da973",
-      "size": 1212745
+    "mods/hodgepodge-2.7.214.jar": {
+      "sha1": "ee3c33a94e4f37b08796999bc18335ef7b12139d",
+      "size": 1220056
     },
     "mods/industrialcraft-2-2.2.828-experimental.jar": {
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
@@ -1929,9 +1929,9 @@
       "sha1": "fc52896812d315b084212ae308f2427741ace74a",
       "size": 166622
     },
-    "mods/orespawn-3.1.1.jar": {
-      "sha1": "5d05fb4a9ce6c8e5472e8e6b3198927d83d849fe",
-      "size": 18807023
+    "mods/orespawn-3.1.7.jar": {
+      "sha1": "6ba9c1b1328542c23207ced18d2352da6459f92c",
+      "size": 18774080
     },
     "mods/overloadedarmorbar-1.1.1.jar": {
       "sha1": "8c1f460dae967ed0c42744d5e58d74c9edc95c77",
@@ -1949,9 +1949,9 @@
       "sha1": "1cad010865aa455cc5eafbffc4ef915ac4ab2ecc",
       "size": 68794
     },
-    "mods/thaumicenergistics-1.7.61-GTNH.jar": {
-      "sha1": "1ba359ee4cdf95bb94f56483879d2b60ce1e5ac9",
-      "size": 1430165
+    "mods/thaumicenergistics-1.7.64-GTNH.jar": {
+      "sha1": "749ce7bc41c3a42bc4065f2468d4781d34c0b065",
+      "size": 1434772
     },
     "mods/thaumicinsurgence-0.4.1.jar": {
       "sha1": "dd163625958d0f8fa357660976b4f9dae339a5c1",
