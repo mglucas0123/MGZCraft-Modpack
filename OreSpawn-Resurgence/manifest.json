@@ -1,6 +1,6 @@
 {
-  "revision": "2ef9e79e4c781946edfd15fe586a05330947e676",
-  "generated_at": "2026-10-04T03:07:03Z",
+  "revision": "55e75f2158397ac22d58f99460e4c95657cb06b2",
+  "generated_at": "2026-10-04T05:44:43Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1693,9 +1693,9 @@
       "sha1": "6c31122206ba2daa9cf31dcfb7d4d71c07113592",
       "size": 3295681
     },
-    "mods/MGZRpg-1.7.83.jar": {
-      "sha1": "8b34913fbffde80e58e38c693dc9875ea2f387aa",
-      "size": 2797849
+    "mods/MGZRpg-1.7.84.jar": {
+      "sha1": "b9951d3ec961c56aed05f3d8d681550983f554df",
+      "size": 2851135
     },
     "mods/MGZUILibrary-4.3.0.jar": {
       "sha1": "313927cb6152c990bb7de3311d02f3e3b09fe58d",
@@ -1745,9 +1745,9 @@
       "sha1": "53bd00d5ae1df2cb8fc96d57108bf1c9f8dcd46d",
       "size": 17314
     },
-    "mods/ServerUtilities-2.4.12-mgz.30.jar": {
-      "sha1": "1a61596e9442a03737a81dd35e1d672d677f0f1a",
-      "size": 2154487
+    "mods/ServerUtilities-2.4.12-mgz.31.jar": {
+      "sha1": "71370b18adfcf3dee558149734359ef59203fafb",
+      "size": 2154493
     },
     "mods/Tainted-Magic-7.7.8-GTNH.jar": {
       "sha1": "095af987023c1f5abef935a93768bfcdf461d867",
@@ -1825,9 +1825,9 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.2.27.jar": {
-      "sha1": "4236acb348eb1b039b0ce9f13e00d2c5e9da643f",
-      "size": 11620284
+    "mods/angelica-2.2.28.jar": {
+      "sha1": "adaf1efe6119d2b0463c14d42048b1ce461006b3",
+      "size": 11676149
     },
     "mods/appliedenergistics2-rv3-beta-1079-GTNH.jar": {
       "sha1": "be17b8a49aefe5d5c69a0120a98dbde53773caf6",
@@ -1981,8 +1981,8 @@
       "sha1": "bffc3b3a10377cb4769df99991a2ec4e164ab9e8",
       "size": 38385100
     },
-    "resourcepacks/Modernity-GTNH-UI-2026-09-21.zip": {
-      "sha1": "bf3b3767bf453d444607d809907bbd3934ce4ead",
+    "resourcepacks/Modernity-GTNH-UI-2026-09-28.zip": {
+      "sha1": "cc29310f77007aa1e627a99bdb0303bbf2303e24",
       "size": 14081485
     },
     "shaderspacks/ComplementaryShaders_v4.7.1.zip": {
