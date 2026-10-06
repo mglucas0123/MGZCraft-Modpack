@@ -1,6 +1,6 @@
 {
-  "revision": "dcac2f090d5d17e374922bba8f655490a9146071",
-  "generated_at": "2026-10-05T01:20:00Z",
+  "revision": "d2b652c4e0247eff99fdce274c8d923cedb47c58",
+  "generated_at": "2026-10-06T01:35:11Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1693,9 +1693,9 @@
       "sha1": "6c31122206ba2daa9cf31dcfb7d4d71c07113592",
       "size": 3295681
     },
-    "mods/MGZRpg-1.7.93.jar": {
-      "sha1": "744c7bea1a96b8cc669773f94bfcc70974d235ae",
-      "size": 2958387
+    "mods/MGZRpg-1.7.95.jar": {
+      "sha1": "435b6257057ac24afd4d1ecb8ed9c25687f4497d",
+      "size": 2989993
     },
     "mods/MGZUILibrary-4.3.0.jar": {
       "sha1": "313927cb6152c990bb7de3311d02f3e3b09fe58d",
@@ -1725,8 +1725,8 @@
       "sha1": "aaba9fdcc88542f52809ec0ed4b7fbf5f5556865",
       "size": 295476
     },
-    "mods/NotEnoughItems-2.8.156-GTNH.jar": {
-      "sha1": "024be3af7e5512748712e67b13c156cf4406b6cd",
+    "mods/NotEnoughItems-2.8.157-GTNH.jar": {
+      "sha1": "4bdc92c4500a773420690febbbce405bd7a981a6",
       "size": 1770660
     },
     "mods/Patcher-DraconicPatcher.jar": {
@@ -1825,9 +1825,9 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.2.28.jar": {
-      "sha1": "adaf1efe6119d2b0463c14d42048b1ce461006b3",
-      "size": 11676149
+    "mods/angelica-2.2.29.jar": {
+      "sha1": "34ddf5eab06d00e95899dabf7d461e910c72502f",
+      "size": 11737880
     },
     "mods/appliedenergistics2-rv3-beta-1081-GTNH.jar": {
       "sha1": "76094c8454a5dea0495a12b422ca7c14005d4442",
@@ -1877,9 +1877,9 @@
       "sha1": "3ed7c81534e83b66d3e5e4ad3f845faa26897c07",
       "size": 1430488
     },
-    "mods/hodgepodge-2.7.215.jar": {
-      "sha1": "3cd58119802aae19610b82003e891a99189f0ccf",
-      "size": 1226254
+    "mods/hodgepodge-2.7.216.jar": {
+      "sha1": "0db7cb0d90ce5fc7000a35475e7fec5a8f211bc1",
+      "size": 1257729
     },
     "mods/industrialcraft-2-2.2.828-experimental.jar": {
       "sha1": "64f71495feddba295ed4392797d48d7dcfcfc779",
@@ -1981,8 +1981,8 @@
       "sha1": "bffc3b3a10377cb4769df99991a2ec4e164ab9e8",
       "size": 38385100
     },
-    "resourcepacks/Modernity-GTNH-UI-2026-09-28.zip": {
-      "sha1": "cc29310f77007aa1e627a99bdb0303bbf2303e24",
+    "resourcepacks/Modernity-GTNH-UI-2026-10-05.zip": {
+      "sha1": "e33b68498850551227472650735d63272ab7c719",
       "size": 14081485
     },
     "shaderspacks/ComplementaryShaders_v4.7.1.zip": {
