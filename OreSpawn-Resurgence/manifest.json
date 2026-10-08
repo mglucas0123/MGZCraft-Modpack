@@ -1,6 +1,6 @@
 {
-  "revision": "35ea065d4ecd19158f2e3b89dfc3c7b03584391c",
-  "generated_at": "2026-10-06T05:00:12Z",
+  "revision": "ebd113e79bc84a4052a588fb2e7fcf5875615931",
+  "generated_at": "2026-10-08T01:45:04Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1685,13 +1685,13 @@
       "sha1": "2ac81893a297e2cf20f816db146a460c0d121791",
       "size": 1789797
     },
-    "mods/MGZHolograms-3.6.0.jar": {
-      "sha1": "8ec3dec1785ac414b0f86ce666003e75f64f2f25",
-      "size": 193928
+    "mods/MGZHolograms-4.0.0.jar": {
+      "sha1": "5a692ba0b3b40bd46249310ea55283d35d532541",
+      "size": 216797
     },
-    "mods/MGZPortals.jar": {
-      "sha1": "6c31122206ba2daa9cf31dcfb7d4d71c07113592",
-      "size": 3295681
+    "mods/MGZPortals-2.0.0.jar": {
+      "sha1": "3fa55366af1ac5e360d1b4e21e2c18ac7a7bd733",
+      "size": 3312219
     },
     "mods/MGZRpg-1.7.95.jar": {
       "sha1": "435b6257057ac24afd4d1ecb8ed9c25687f4497d",
@@ -1725,9 +1725,9 @@
       "sha1": "aaba9fdcc88542f52809ec0ed4b7fbf5f5556865",
       "size": 295476
     },
-    "mods/NotEnoughItems-2.8.157-GTNH.jar": {
-      "sha1": "4bdc92c4500a773420690febbbce405bd7a981a6",
-      "size": 1770660
+    "mods/NotEnoughItems-2.8.158-GTNH.jar": {
+      "sha1": "8b28514c1c174edeb92aa96b7acac0201157effe",
+      "size": 1770750
     },
     "mods/Patcher-DraconicPatcher.jar": {
       "sha1": "7056927adf63fe59c45c135d2be8001e5a3ab370",
@@ -1825,13 +1825,13 @@
       "sha1": "090422d6fdeaa2b707623b4e6fc35305e8dd283f",
       "size": 671643
     },
-    "mods/angelica-2.2.29.jar": {
-      "sha1": "34ddf5eab06d00e95899dabf7d461e910c72502f",
-      "size": 11737880
+    "mods/angelica-2.2.30.jar": {
+      "sha1": "244da5f8e109037a3fad156feb88cb9613dc612e",
+      "size": 11910706
     },
-    "mods/appliedenergistics2-rv3-beta-1081-GTNH.jar": {
-      "sha1": "76094c8454a5dea0495a12b422ca7c14005d4442",
-      "size": 5049001
+    "mods/appliedenergistics2-rv3-beta-1082-GTNH.jar": {
+      "sha1": "e4a5cdcc4695689db1d448d63b0a565f80d85ebf",
+      "size": 5049002
     },
     "mods/backpack-2.6.18-GTNH.jar": {
       "sha1": "8e33ce361f80aad53f0eefd35d2dc14e431fe4f6",
@@ -1869,9 +1869,9 @@
       "sha1": "58980996269d253fd37940b06e018077dd30b893",
       "size": 399809
     },
-    "mods/etfuturum-2.6.60-GTNH.jar": {
-      "sha1": "eefea371ab41cf8e407b5582aa027c48ca124fb8",
-      "size": 5357706
+    "mods/etfuturum-2.6.61-GTNH.jar": {
+      "sha1": "0d5910b6a423e95c1155c97ce2193bf64f71c911",
+      "size": 5357844
     },
     "mods/gtnhlib-0.11.52.jar": {
       "sha1": "3ed7c81534e83b66d3e5e4ad3f845faa26897c07",
