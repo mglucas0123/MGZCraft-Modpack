@@ -1,6 +1,6 @@
 {
-  "revision": "918274dcb174c17da3da128e27564598892035eb",
-  "generated_at": "2026-10-08T01:50:12Z",
+  "revision": "40c3e27aa796658958a78b375ed4f65cc7a20a8d",
+  "generated_at": "2026-10-11T15:44:12Z",
   "base_url": "https://raw.githubusercontent.com/mglucas0123/MGZCraft-Modpack/main/OreSpawn-Resurgence",
   "tracked": [
     "clientmods",
@@ -1677,9 +1677,13 @@
       "sha1": "547e1ee8913dfbf5f08fb45e033cce3928ebf8ff",
       "size": 282699
     },
-    "mods/MGZCore-1.0.22.jar": {
-      "sha1": "1ffdb662bcca88d7e1fe2f3abd420a34045439fd",
-      "size": 231572
+    "mods/MGZCore-1.0.26.jar": {
+      "sha1": "788e9deed94b4f799a20b957038cbcaccdc5b0a9",
+      "size": 244844
+    },
+    "mods/MGZEventos-1.1.0.jar": {
+      "sha1": "71bf23377a2b4901fb8c82ba2c6243297e0db548",
+      "size": 109158
     },
     "mods/MGZGuard-1.10.0.jar": {
       "sha1": "2ac81893a297e2cf20f816db146a460c0d121791",
@@ -1745,9 +1749,9 @@
       "sha1": "53bd00d5ae1df2cb8fc96d57108bf1c9f8dcd46d",
       "size": 17314
     },
-    "mods/ServerUtilities-2.4.12-mgz.34.jar": {
-      "sha1": "0d667f3aab5cf6c4460da9750fef5e572fe96bbd",
-      "size": 2170798
+    "mods/ServerUtilities-2.4.19-mgz.41.jar": {
+      "sha1": "33ce7f209bcaec32cda68ab186fd233657ab1a5a",
+      "size": 2194674
     },
     "mods/Tainted-Magic-7.7.8-GTNH.jar": {
       "sha1": "095af987023c1f5abef935a93768bfcdf461d867",
@@ -1929,9 +1933,9 @@
       "sha1": "fc52896812d315b084212ae308f2427741ace74a",
       "size": 166622
     },
-    "mods/orespawn-3.1.7.jar": {
-      "sha1": "6ba9c1b1328542c23207ced18d2352da6459f92c",
-      "size": 18774080
+    "mods/orespawn-3.2.0.jar": {
+      "sha1": "dfca75614ea22ecd6659d0ef7ec06c4ae8aafd22",
+      "size": 18798770
     },
     "mods/overloadedarmorbar-1.1.1.jar": {
       "sha1": "8c1f460dae967ed0c42744d5e58d74c9edc95c77",
