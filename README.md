@@ -46,6 +46,23 @@ Pronto — na próxima vez que os jogadores abrirem o jogo, o launcher baixa som
 | Modpack | Pasta | Camada base |
 |---|---|---|
 | OreSpawn Resurgence | `OreSpawn-Resurgence/` | `bin/1.7.10` |
+| NeoSpawn Resurgence | `NeoSpawn-Resurgence/` | `bin/1.21.1` |
+
+### NeoSpawn Resurgence (Minecraft 1.21.1)
+
+Pasta pronta, ainda sem mods. O `pack.json` pede a camada `bin/1.21.1`.
+
+Antes de gerar o índice, monte a origem do bin (não vai para o git):
+
+```
+bin/src/1.21.1/
+├── version.json      ← precisa do campo "minecraft": "1.21.1"
+├── 1.21.1.json       ← meta do NeoForge (arguments + mainClass)
+├── minecraft.jar
+└── natives/
+```
+
+O script gera `bin/1.21.1.zip` a partir dessa pasta. Mods de cliente vão em `NeoSpawn-Resurgence/mods/` (e `clientmods/` se forem só do jogador). Mods que o servidor baixa e o jogador não vê vão em `servermods/`.
 
 ## Baixar o launcher
 
